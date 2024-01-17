@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only long put trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only long put trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 17 Jan 2024 19:27:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 jcvalhalla opened a long put on $ENVX expiring 2024-04-19</title>
+      <link>https://thetagang.com/jcvalhalla/dbaf4646-0726-44ef-b3dc-29fe297616ae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jcvalhalla/dbaf4646-0726-44ef-b3dc-29fe297616ae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dbaf4646-0726-44ef-b3dc-29fe297616ae-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 20:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mehmehmeh opened a long put on $EYPT expiring 2024-04-19</title>
+      <link>https://thetagang.com/mehmehmeh/f2583a21-773e-4761-9953-e3d83b1518bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/f2583a21-773e-4761-9953-e3d83b1518bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f2583a21-773e-4761-9953-e3d83b1518bf-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 21:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 kjmartyn closed a long put on $SPX expiring 2024-01-24</title>
+      <link>https://thetagang.com/kjmartyn/686ff7b6-070a-4bde-b23c-95debc36da80</link>
+      <description>For more details, &lt;a href='https://thetagang.com/kjmartyn/686ff7b6-070a-4bde-b23c-95debc36da80'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">686ff7b6-070a-4bde-b23c-95debc36da80-closing</guid>
+      <pubDate>Wed, 17 Jan 2024 17:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 mehmehmeh closed a long put on $SPY expiring 2024-01-18</title>
+      <link>https://thetagang.com/mehmehmeh/60d58bea-6527-4dae-9aca-6bd18cf71e25</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mehmehmeh/60d58bea-6527-4dae-9aca-6bd18cf71e25'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">60d58bea-6527-4dae-9aca-6bd18cf71e25-closing</guid>
+      <pubDate>Wed, 17 Jan 2024 18:49:27 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

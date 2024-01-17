@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short straddle trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short straddle trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 17 Jan 2024 19:28:00 +0000</lastBuildDate>
+    <item>
+      <title>🌅 jonnyfive opened a short straddle on $TDOC expiring 2021-08-20</title>
+      <link>https://thetagang.com/jonnyfive/c33d1734-5056-4265-8e6d-b10723050088</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jonnyfive/c33d1734-5056-4265-8e6d-b10723050088'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c33d1734-5056-4265-8e6d-b10723050088-opening</guid>
+      <pubDate>Fri, 13 Aug 2021 14:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Hanzipanzi opened a short straddle on $X expiring 2021-09-16</title>
+      <link>https://thetagang.com/Hanzipanzi/d1791262-9765-4342-abd4-9a0f3e7c0ed6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hanzipanzi/d1791262-9765-4342-abd4-9a0f3e7c0ed6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d1791262-9765-4342-abd4-9a0f3e7c0ed6-opening</guid>
+      <pubDate>Mon, 23 Aug 2021 14:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Krasberry opened a short straddle on $AYRO expiring 2021-10-15</title>
+      <link>https://thetagang.com/Krasberry/7d15dc3b-157f-4392-82ed-9fe34a9702a1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Krasberry/7d15dc3b-157f-4392-82ed-9fe34a9702a1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d15dc3b-157f-4392-82ed-9fe34a9702a1-opening</guid>
+      <pubDate>Mon, 23 Aug 2021 17:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dollar opened a short straddle on $MTCH expiring 2021-10-15</title>
+      <link>https://thetagang.com/Dollar/05124421-9c5e-42a0-9b92-e400c6751242</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dollar/05124421-9c5e-42a0-9b92-e400c6751242'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">05124421-9c5e-42a0-9b92-e400c6751242-opening</guid>
+      <pubDate>Mon, 23 Aug 2021 20:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dollar opened a short straddle on $GOOGL expiring 2021-10-15</title>
+      <link>https://thetagang.com/Dollar/0954259a-15e0-4e32-bd08-98c3b6024630</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dollar/0954259a-15e0-4e32-bd08-98c3b6024630'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0954259a-15e0-4e32-bd08-98c3b6024630-opening</guid>
+      <pubDate>Tue, 24 Aug 2021 16:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $ATOS expiring 2021-10-15</title>
+      <link>https://thetagang.com/HippoDan/306f73a3-ec32-4733-81e1-29aecb1f4e27</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/306f73a3-ec32-4733-81e1-29aecb1f4e27'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">306f73a3-ec32-4733-81e1-29aecb1f4e27-opening</guid>
+      <pubDate>Mon, 30 Aug 2021 15:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 microkernel opened a short straddle on $PD expiring 2021-09-17</title>
+      <link>https://thetagang.com/microkernel/7434db69-6a94-4dfd-936e-a4eeb7ea46d3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/microkernel/7434db69-6a94-4dfd-936e-a4eeb7ea46d3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7434db69-6a94-4dfd-936e-a4eeb7ea46d3-opening</guid>
+      <pubDate>Thu, 02 Sep 2021 19:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MDWASP opened a short straddle on $PD expiring 2021-09-17</title>
+      <link>https://thetagang.com/MDWASP/dd0f54d7-a9f4-4f53-98ad-a26a4fa4963a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/dd0f54d7-a9f4-4f53-98ad-a26a4fa4963a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dd0f54d7-a9f4-4f53-98ad-a26a4fa4963a-opening</guid>
+      <pubDate>Thu, 02 Sep 2021 19:59:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MDWASP opened a short straddle on $JOAN expiring 2021-09-17</title>
+      <link>https://thetagang.com/MDWASP/a8c93359-ddb4-4fb2-990d-1a8fc5918dd8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/a8c93359-ddb4-4fb2-990d-1a8fc5918dd8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a8c93359-ddb4-4fb2-990d-1a8fc5918dd8-opening</guid>
+      <pubDate>Thu, 02 Sep 2021 20:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MDWASP closed a short straddle on $TLYS expiring 2021-09-17</title>
+      <link>https://thetagang.com/MDWASP/43332d83-4817-4f76-b005-2171a018bc56</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/43332d83-4817-4f76-b005-2171a018bc56'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">43332d83-4817-4f76-b005-2171a018bc56-closing</guid>
+      <pubDate>Fri, 03 Sep 2021 13:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MDWASP opened a short straddle on $ZUMZ expiring 2021-09-17</title>
+      <link>https://thetagang.com/MDWASP/4630e041-e0d5-4825-8f53-64ad56a6d8f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/4630e041-e0d5-4825-8f53-64ad56a6d8f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4630e041-e0d5-4825-8f53-64ad56a6d8f1-opening</guid>
+      <pubDate>Thu, 09 Sep 2021 16:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MDWASP opened a short straddle on $PLAY expiring 2021-09-10</title>
+      <link>https://thetagang.com/MDWASP/20a3b179-ce47-4ad8-b461-75fb9dafcba1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/20a3b179-ce47-4ad8-b461-75fb9dafcba1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">20a3b179-ce47-4ad8-b461-75fb9dafcba1-opening</guid>
+      <pubDate>Thu, 09 Sep 2021 16:57:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ahart75 opened a short straddle on $SFIX expiring 2021-10-15</title>
+      <link>https://thetagang.com/ahart75/c40f9ea7-4d8c-4818-b361-b3bb60d8cc69</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ahart75/c40f9ea7-4d8c-4818-b361-b3bb60d8cc69'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c40f9ea7-4d8c-4818-b361-b3bb60d8cc69-opening</guid>
+      <pubDate>Thu, 09 Sep 2021 19:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-10-22</title>
+      <link>https://thetagang.com/NotBezos/65ab0040-4a5c-4055-a5d0-a570f3dc2cb4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/65ab0040-4a5c-4055-a5d0-a570f3dc2cb4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">65ab0040-4a5c-4055-a5d0-a570f3dc2cb4-opening</guid>
+      <pubDate>Fri, 10 Sep 2021 16:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $QQQ expiring 2021-10-22</title>
+      <link>https://thetagang.com/NotBezos/2320b06e-3f94-4477-964a-bcdc3f5f57e7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/2320b06e-3f94-4477-964a-bcdc3f5f57e7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2320b06e-3f94-4477-964a-bcdc3f5f57e7-opening</guid>
+      <pubDate>Sat, 11 Sep 2021 06:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $QQQ expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/ca59e178-d712-436c-9bce-cd20551c7c22</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/ca59e178-d712-436c-9bce-cd20551c7c22'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ca59e178-d712-436c-9bce-cd20551c7c22-opening</guid>
+      <pubDate>Mon, 13 Sep 2021 16:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Hanzipanzi opened a short straddle on $X expiring 2021-10-14</title>
+      <link>https://thetagang.com/Hanzipanzi/5db7ac1e-b9a4-4c60-86a8-ef55a3c31706</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hanzipanzi/5db7ac1e-b9a4-4c60-86a8-ef55a3c31706'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5db7ac1e-b9a4-4c60-86a8-ef55a3c31706-opening</guid>
+      <pubDate>Mon, 13 Sep 2021 16:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MDWASP opened a short straddle on $FCEL expiring 2021-09-17</title>
+      <link>https://thetagang.com/MDWASP/33dd58ed-6956-47a5-8f81-9a560d18abc6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MDWASP/33dd58ed-6956-47a5-8f81-9a560d18abc6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">33dd58ed-6956-47a5-8f81-9a560d18abc6-opening</guid>
+      <pubDate>Mon, 13 Sep 2021 18:41:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Brodad4 opened a short straddle on $AMD expiring 2021-09-27</title>
+      <link>https://thetagang.com/Brodad4/01b4f81a-b01d-4e89-8f8b-605e7ec1e2a9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Brodad4/01b4f81a-b01d-4e89-8f8b-605e7ec1e2a9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">01b4f81a-b01d-4e89-8f8b-605e7ec1e2a9-opening</guid>
+      <pubDate>Sat, 18 Sep 2021 03:12:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/42dca99e-94c7-4245-adba-cdb53a43020f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/42dca99e-94c7-4245-adba-cdb53a43020f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">42dca99e-94c7-4245-adba-cdb53a43020f-opening</guid>
+      <pubDate>Mon, 20 Sep 2021 14:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 NotBezos closed a short straddle on $QQQ expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/5347aaa0-aed5-4237-be4a-3fa8eb7331da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/5347aaa0-aed5-4237-be4a-3fa8eb7331da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5347aaa0-aed5-4237-be4a-3fa8eb7331da-closing</guid>
+      <pubDate>Mon, 20 Sep 2021 15:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $QQQ expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/3dcdb6d0-3862-44e9-a34d-f8a8b7d8f991</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/3dcdb6d0-3862-44e9-a34d-f8a8b7d8f991'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3dcdb6d0-3862-44e9-a34d-f8a8b7d8f991-opening</guid>
+      <pubDate>Mon, 20 Sep 2021 15:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 nohohank16 opened a short straddle on $XOP expiring 2021-11-19</title>
+      <link>https://thetagang.com/nohohank16/3521b004-2abe-4742-8963-c868850daee1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nohohank16/3521b004-2abe-4742-8963-c868850daee1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3521b004-2abe-4742-8963-c868850daee1-opening</guid>
+      <pubDate>Tue, 21 Sep 2021 18:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 nohohank16 closed a short straddle on $1 expiring 2021-11-19</title>
+      <link>https://thetagang.com/nohohank16/014a9afa-832f-4965-a1a5-a94e6781b0e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nohohank16/014a9afa-832f-4965-a1a5-a94e6781b0e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">014a9afa-832f-4965-a1a5-a94e6781b0e8-closing</guid>
+      <pubDate>Tue, 21 Sep 2021 18:14:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 nohohank16 opened a short straddle on $LVS expiring 2021-11-19</title>
+      <link>https://thetagang.com/nohohank16/8b243298-917f-4b6b-b86f-a41aae053832</link>
+      <description>For more details, &lt;a href='https://thetagang.com/nohohank16/8b243298-917f-4b6b-b86f-a41aae053832'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b243298-917f-4b6b-b86f-a41aae053832-opening</guid>
+      <pubDate>Tue, 21 Sep 2021 18:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Shmevin opened a short straddle on $VIAC expiring 2021-09-24</title>
+      <link>https://thetagang.com/Shmevin/96204143-6eb1-416a-9298-293092844e25</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Shmevin/96204143-6eb1-416a-9298-293092844e25'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">96204143-6eb1-416a-9298-293092844e25-opening</guid>
+      <pubDate>Wed, 22 Sep 2021 16:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $RAD expiring 2021-09-24</title>
+      <link>https://thetagang.com/jrue/3924dfe0-1df2-4f74-be5e-0520da51d2f1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/3924dfe0-1df2-4f74-be5e-0520da51d2f1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3924dfe0-1df2-4f74-be5e-0520da51d2f1-opening</guid>
+      <pubDate>Wed, 22 Sep 2021 19:52:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $QQQ expiring 2021-11-05</title>
+      <link>https://thetagang.com/NotBezos/045d0421-e4a7-4582-a724-967768f8a0c1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/045d0421-e4a7-4582-a724-967768f8a0c1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">045d0421-e4a7-4582-a724-967768f8a0c1-opening</guid>
+      <pubDate>Wed, 29 Sep 2021 19:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/d8cbc8cf-ae6d-49bd-841c-d5cbb2545989</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/d8cbc8cf-ae6d-49bd-841c-d5cbb2545989'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d8cbc8cf-ae6d-49bd-841c-d5cbb2545989-opening</guid>
+      <pubDate>Wed, 29 Sep 2021 19:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Reiku opened a short straddle on $AAL expiring 2021-11-19</title>
+      <link>https://thetagang.com/Reiku/2758103e-977f-43e3-b3f1-b3c0d329ad0a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/2758103e-977f-43e3-b3f1-b3c0d329ad0a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2758103e-977f-43e3-b3f1-b3c0d329ad0a-opening</guid>
+      <pubDate>Thu, 30 Sep 2021 17:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $VIRT expiring 2021-11-19</title>
+      <link>https://thetagang.com/NotBezos/87775724-c766-4463-b5e0-99d1344632ca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/87775724-c766-4463-b5e0-99d1344632ca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87775724-c766-4463-b5e0-99d1344632ca-opening</guid>
+      <pubDate>Mon, 04 Oct 2021 13:42:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Thetahead opened a short straddle on $LCID expiring 2021-10-07</title>
+      <link>https://thetagang.com/Thetahead/9dee4552-8f93-48cb-9945-5866d92dfc26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetahead/9dee4552-8f93-48cb-9945-5866d92dfc26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9dee4552-8f93-48cb-9945-5866d92dfc26-opening</guid>
+      <pubDate>Tue, 05 Oct 2021 05:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Thetahead opened a short straddle on $SOFI expiring 2021-10-07</title>
+      <link>https://thetagang.com/Thetahead/7ca9638c-4dea-4c4c-bb72-4feb89b565a4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetahead/7ca9638c-4dea-4c4c-bb72-4feb89b565a4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7ca9638c-4dea-4c4c-bb72-4feb89b565a4-opening</guid>
+      <pubDate>Tue, 05 Oct 2021 05:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Thetahead closed a short straddle on $LCID expiring 2021-10-04</title>
+      <link>https://thetagang.com/Thetahead/e8062d49-edec-4908-80b0-dea0262e018e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Thetahead/e8062d49-edec-4908-80b0-dea0262e018e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e8062d49-edec-4908-80b0-dea0262e018e-closing</guid>
+      <pubDate>Tue, 05 Oct 2021 05:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $PROG expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/c4f3e44c-86a4-401a-8de8-83e64d743b23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/c4f3e44c-86a4-401a-8de8-83e64d743b23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c4f3e44c-86a4-401a-8de8-83e64d743b23-opening</guid>
+      <pubDate>Tue, 12 Oct 2021 16:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $VZ expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/6fcc1430-5e10-48b4-ab88-28f69f60049c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/6fcc1430-5e10-48b4-ab88-28f69f60049c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6fcc1430-5e10-48b4-ab88-28f69f60049c-opening</guid>
+      <pubDate>Tue, 12 Oct 2021 18:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $UNG expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/f3be12c9-0e36-4884-ba78-75221b0cfc9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/f3be12c9-0e36-4884-ba78-75221b0cfc9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3be12c9-0e36-4884-ba78-75221b0cfc9a-opening</guid>
+      <pubDate>Tue, 12 Oct 2021 19:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $RKT expiring 2021-10-29</title>
+      <link>https://thetagang.com/HippoDan/0f3abb1a-bc87-45b3-a20b-0be86375730f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/0f3abb1a-bc87-45b3-a20b-0be86375730f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0f3abb1a-bc87-45b3-a20b-0be86375730f-opening</guid>
+      <pubDate>Wed, 13 Oct 2021 15:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-10-29</title>
+      <link>https://thetagang.com/NotBezos/1dc7ac82-e1da-419c-9d4a-55e0d6498b76</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/1dc7ac82-e1da-419c-9d4a-55e0d6498b76'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1dc7ac82-e1da-419c-9d4a-55e0d6498b76-opening</guid>
+      <pubDate>Wed, 13 Oct 2021 18:52:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $QQQ expiring 2021-11-26</title>
+      <link>https://thetagang.com/NotBezos/4fc85ff1-1833-42a6-83d2-aa56b2c07e45</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/4fc85ff1-1833-42a6-83d2-aa56b2c07e45'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4fc85ff1-1833-42a6-83d2-aa56b2c07e45-opening</guid>
+      <pubDate>Wed, 13 Oct 2021 18:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $PROG expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/ac936923-5a47-414d-a03d-335e06f1bbfe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/ac936923-5a47-414d-a03d-335e06f1bbfe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac936923-5a47-414d-a03d-335e06f1bbfe-opening</guid>
+      <pubDate>Wed, 13 Oct 2021 19:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $VZ expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/8deb558a-052f-4312-8337-73a2dc28ccf5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/8deb558a-052f-4312-8337-73a2dc28ccf5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8deb558a-052f-4312-8337-73a2dc28ccf5-opening</guid>
+      <pubDate>Wed, 13 Oct 2021 19:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $RKT expiring 2021-11-19</title>
+      <link>https://thetagang.com/HippoDan/45f7054f-d743-44e2-ae1b-eb70a6b146fc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/45f7054f-d743-44e2-ae1b-eb70a6b146fc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">45f7054f-d743-44e2-ae1b-eb70a6b146fc-opening</guid>
+      <pubDate>Thu, 14 Oct 2021 14:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-11-26</title>
+      <link>https://thetagang.com/NotBezos/04ee603a-b292-4343-8705-75aa5cd6ad45</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/04ee603a-b292-4343-8705-75aa5cd6ad45'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">04ee603a-b292-4343-8705-75aa5cd6ad45-opening</guid>
+      <pubDate>Tue, 19 Oct 2021 15:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 horst2104 opened a short straddle on $FCX expiring 2021-10-21</title>
+      <link>https://thetagang.com/horst2104/269fe5ed-7abe-4f15-92df-3cc8e4ab4d4a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/horst2104/269fe5ed-7abe-4f15-92df-3cc8e4ab4d4a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">269fe5ed-7abe-4f15-92df-3cc8e4ab4d4a-opening</guid>
+      <pubDate>Wed, 20 Oct 2021 19:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 horst2104 opened a short straddle on $NUE expiring 2021-10-21</title>
+      <link>https://thetagang.com/horst2104/ad95fd0b-e118-48c1-bb4f-63882e5102c3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/horst2104/ad95fd0b-e118-48c1-bb4f-63882e5102c3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad95fd0b-e118-48c1-bb4f-63882e5102c3-opening</guid>
+      <pubDate>Wed, 20 Oct 2021 19:22:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Twinweapons closed a short straddle on $LVS expiring 2021-10-22</title>
+      <link>https://thetagang.com/Twinweapons/d4dc1143-aa68-460b-8ba5-a0422c7ad490</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Twinweapons/d4dc1143-aa68-460b-8ba5-a0422c7ad490'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d4dc1143-aa68-460b-8ba5-a0422c7ad490-closing</guid>
+      <pubDate>Thu, 21 Oct 2021 13:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Twinweapons closed a short straddle on $MAT expiring 2021-10-22</title>
+      <link>https://thetagang.com/Twinweapons/a598fde8-2b48-492e-a313-8f0e07b4a7ed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Twinweapons/a598fde8-2b48-492e-a313-8f0e07b4a7ed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a598fde8-2b48-492e-a313-8f0e07b4a7ed-closing</guid>
+      <pubDate>Fri, 22 Oct 2021 14:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Twinweapons closed a short straddle on $SNAP expiring 2021-10-22</title>
+      <link>https://thetagang.com/Twinweapons/fa084e6e-9d9c-45cb-94fe-1483bc72310d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Twinweapons/fa084e6e-9d9c-45cb-94fe-1483bc72310d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fa084e6e-9d9c-45cb-94fe-1483bc72310d-closing</guid>
+      <pubDate>Fri, 22 Oct 2021 14:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $CRTX expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/898bcee3-e63f-4c57-9d1f-d60e642ed616</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/898bcee3-e63f-4c57-9d1f-d60e642ed616'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">898bcee3-e63f-4c57-9d1f-d60e642ed616-opening</guid>
+      <pubDate>Fri, 22 Oct 2021 21:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 horst2104 opened a short straddle on $RRC expiring 2021-10-28</title>
+      <link>https://thetagang.com/horst2104/9d4909df-6c71-475d-b433-c2351916983b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/horst2104/9d4909df-6c71-475d-b433-c2351916983b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9d4909df-6c71-475d-b433-c2351916983b-opening</guid>
+      <pubDate>Tue, 26 Oct 2021 20:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $IMGN expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/ebd3a170-492c-4cef-9c36-5ea32ad7309e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/ebd3a170-492c-4cef-9c36-5ea32ad7309e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ebd3a170-492c-4cef-9c36-5ea32ad7309e-opening</guid>
+      <pubDate>Wed, 27 Oct 2021 20:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short straddle on $MO expiring 2021-10-29</title>
+      <link>https://thetagang.com/jrue/6714c6b5-4513-4171-9ff6-549961b2c03d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/6714c6b5-4513-4171-9ff6-549961b2c03d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6714c6b5-4513-4171-9ff6-549961b2c03d-closing</guid>
+      <pubDate>Thu, 28 Oct 2021 14:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $RKT expiring 2021-11-19</title>
+      <link>https://thetagang.com/HippoDan/f7388114-bada-4c9f-8b69-2805cb0cee75</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/f7388114-bada-4c9f-8b69-2805cb0cee75'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f7388114-bada-4c9f-8b69-2805cb0cee75-opening</guid>
+      <pubDate>Thu, 28 Oct 2021 16:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $CRTX expiring 2021-11-18</title>
+      <link>https://thetagang.com/gahn1031/2db3b906-ee37-45b1-a642-5787e8290c80</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/2db3b906-ee37-45b1-a642-5787e8290c80'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2db3b906-ee37-45b1-a642-5787e8290c80-opening</guid>
+      <pubDate>Thu, 28 Oct 2021 20:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $BYSI expiring 2021-12-16</title>
+      <link>https://thetagang.com/gahn1031/9fc013ba-ba73-4cd9-aa03-f35aac3d1704</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/9fc013ba-ba73-4cd9-aa03-f35aac3d1704'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9fc013ba-ba73-4cd9-aa03-f35aac3d1704-opening</guid>
+      <pubDate>Thu, 28 Oct 2021 20:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $KRYS expiring 2021-12-16</title>
+      <link>https://thetagang.com/gahn1031/30ae2ce8-3a41-4823-8be1-c85e26d9eaec</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/30ae2ce8-3a41-4823-8be1-c85e26d9eaec'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30ae2ce8-3a41-4823-8be1-c85e26d9eaec-opening</guid>
+      <pubDate>Thu, 28 Oct 2021 20:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gahn1031 opened a short straddle on $PBR expiring 2021-12-16</title>
+      <link>https://thetagang.com/gahn1031/2980a904-a07e-4bf1-9f3a-54f367b6e6a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gahn1031/2980a904-a07e-4bf1-9f3a-54f367b6e6a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2980a904-a07e-4bf1-9f3a-54f367b6e6a5-opening</guid>
+      <pubDate>Fri, 29 Oct 2021 19:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 horst2104 opened a short straddle on $PFE expiring 2021-11-04</title>
+      <link>https://thetagang.com/horst2104/c1a08c37-5fbd-4b5f-b4d4-c33ab8051cfb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/horst2104/c1a08c37-5fbd-4b5f-b4d4-c33ab8051cfb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c1a08c37-5fbd-4b5f-b4d4-c33ab8051cfb-opening</guid>
+      <pubDate>Mon, 01 Nov 2021 20:12:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NotBezos opened a short straddle on $AAPL expiring 2021-12-17</title>
+      <link>https://thetagang.com/NotBezos/0df86d9d-55c6-410c-8dba-44d6165b5243</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NotBezos/0df86d9d-55c6-410c-8dba-44d6165b5243'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0df86d9d-55c6-410c-8dba-44d6165b5243-opening</guid>
+      <pubDate>Tue, 02 Nov 2021 16:38:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 u9762128 closed a short straddle on $TQQQ expiring 2021-11-16</title>
+      <link>https://thetagang.com/u9762128/29796886-950e-446e-b797-56345d705190</link>
+      <description>For more details, &lt;a href='https://thetagang.com/u9762128/29796886-950e-446e-b797-56345d705190'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">29796886-950e-446e-b797-56345d705190-closing</guid>
+      <pubDate>Wed, 03 Nov 2021 02:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 drjhawk2000 opened a short straddle on $ATVI expiring 2021-12-17</title>
+      <link>https://thetagang.com/drjhawk2000/79fdd0ad-6d31-4776-a002-26baf5db857e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/drjhawk2000/79fdd0ad-6d31-4776-a002-26baf5db857e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">79fdd0ad-6d31-4776-a002-26baf5db857e-opening</guid>
+      <pubDate>Wed, 03 Nov 2021 14:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $RKT expiring 2021-12-17</title>
+      <link>https://thetagang.com/HippoDan/da45cb54-760a-4c76-b1a4-0f45012f49dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/da45cb54-760a-4c76-b1a4-0f45012f49dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da45cb54-760a-4c76-b1a4-0f45012f49dd-opening</guid>
+      <pubDate>Mon, 15 Nov 2021 16:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MNQ expiring 2021-12-17</title>
+      <link>https://thetagang.com/jrue/cb75c63e-d0ea-4a78-b385-4dd9833a9d58</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/cb75c63e-d0ea-4a78-b385-4dd9833a9d58'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cb75c63e-d0ea-4a78-b385-4dd9833a9d58-opening</guid>
+      <pubDate>Tue, 16 Nov 2021 19:56:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Mobius_One opened a short straddle on $SNAP expiring 2022-01-21</title>
+      <link>https://thetagang.com/Mobius_One/4f714581-fe1a-4442-9356-9ca0b6adbdf6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mobius_One/4f714581-fe1a-4442-9356-9ca0b6adbdf6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4f714581-fe1a-4442-9356-9ca0b6adbdf6-opening</guid>
+      <pubDate>Fri, 19 Nov 2021 15:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $DKNG expiring 2021-12-31</title>
+      <link>https://thetagang.com/jrue/e0737cf7-db1c-4ba7-8ec5-30a6d4d6f731</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/e0737cf7-db1c-4ba7-8ec5-30a6d4d6f731'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e0737cf7-db1c-4ba7-8ec5-30a6d4d6f731-opening</guid>
+      <pubDate>Tue, 23 Nov 2021 20:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $GPS expiring 2021-12-16</title>
+      <link>https://thetagang.com/rocked10/d2bbb2be-337c-4a4c-a744-1ba5bb8cefc4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/d2bbb2be-337c-4a4c-a744-1ba5bb8cefc4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2bbb2be-337c-4a4c-a744-1ba5bb8cefc4-opening</guid>
+      <pubDate>Wed, 24 Nov 2021 14:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $TWTR expiring 2021-12-16</title>
+      <link>https://thetagang.com/rocked10/874efc61-61fb-441a-adf7-18e4def50535</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/874efc61-61fb-441a-adf7-18e4def50535'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">874efc61-61fb-441a-adf7-18e4def50535-opening</guid>
+      <pubDate>Wed, 24 Nov 2021 14:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $GPS expiring 2022-01-20</title>
+      <link>https://thetagang.com/rocked10/476ccfd2-03ad-44b6-a39f-817f5c162a6b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/476ccfd2-03ad-44b6-a39f-817f5c162a6b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">476ccfd2-03ad-44b6-a39f-817f5c162a6b-opening</guid>
+      <pubDate>Fri, 26 Nov 2021 16:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $TWTR expiring 2022-01-20</title>
+      <link>https://thetagang.com/rocked10/2dcf77b4-cd5a-414c-adae-9e303b60ea73</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/2dcf77b4-cd5a-414c-adae-9e303b60ea73'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2dcf77b4-cd5a-414c-adae-9e303b60ea73-opening</guid>
+      <pubDate>Fri, 26 Nov 2021 16:05:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $ATVI expiring 2021-12-31</title>
+      <link>https://thetagang.com/jrue/8727ff6a-c133-4c05-ad6e-eda89af6bc70</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8727ff6a-c133-4c05-ad6e-eda89af6bc70'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8727ff6a-c133-4c05-ad6e-eda89af6bc70-opening</guid>
+      <pubDate>Fri, 26 Nov 2021 18:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $DKNG expiring 2022-01-07</title>
+      <link>https://thetagang.com/jrue/2ad1ba31-f80c-4f8f-9f8f-ac60cd9fc1ac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/2ad1ba31-f80c-4f8f-9f8f-ac60cd9fc1ac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2ad1ba31-f80c-4f8f-9f8f-ac60cd9fc1ac-opening</guid>
+      <pubDate>Tue, 30 Nov 2021 18:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $ATOS expiring 2022-01-07</title>
+      <link>https://thetagang.com/HippoDan/81d5bbc8-5c0f-4f60-8bae-f8f04c825a84</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/81d5bbc8-5c0f-4f60-8bae-f8f04c825a84'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">81d5bbc8-5c0f-4f60-8bae-f8f04c825a84-opening</guid>
+      <pubDate>Wed, 01 Dec 2021 21:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $XBI expiring 2021-12-31</title>
+      <link>https://thetagang.com/jrue/ab7a4afc-7a33-4022-9fb5-14e0ae2b3722</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ab7a4afc-7a33-4022-9fb5-14e0ae2b3722'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ab7a4afc-7a33-4022-9fb5-14e0ae2b3722-opening</guid>
+      <pubDate>Tue, 07 Dec 2021 00:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Reiku opened a short straddle on $AAL expiring 2022-01-21</title>
+      <link>https://thetagang.com/Reiku/7d4f609c-09ea-4ad5-ac7c-edfb36ff7030</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/7d4f609c-09ea-4ad5-ac7c-edfb36ff7030'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d4f609c-09ea-4ad5-ac7c-edfb36ff7030-opening</guid>
+      <pubDate>Wed, 08 Dec 2021 17:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gruffalo opened a short straddle on $TAL expiring 2022-01-21</title>
+      <link>https://thetagang.com/gruffalo/5dccfe77-27cb-47e2-ab88-88cc86e2c3cb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gruffalo/5dccfe77-27cb-47e2-ab88-88cc86e2c3cb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5dccfe77-27cb-47e2-ab88-88cc86e2c3cb-opening</guid>
+      <pubDate>Wed, 08 Dec 2021 18:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Brendan55 closed a short straddle on $RKT expiring 2021-12-14</title>
+      <link>https://thetagang.com/Brendan55/b8016f09-aa6e-4e74-af7c-e89e38c652d6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Brendan55/b8016f09-aa6e-4e74-af7c-e89e38c652d6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b8016f09-aa6e-4e74-af7c-e89e38c652d6-closing</guid>
+      <pubDate>Thu, 09 Dec 2021 16:50:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short straddle on $TWLO expiring 2021-12-17</title>
+      <link>https://thetagang.com/jrue/ab8ebc13-f14c-4000-9b8b-e45ffc223363</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ab8ebc13-f14c-4000-9b8b-e45ffc223363'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ab8ebc13-f14c-4000-9b8b-e45ffc223363-closing</guid>
+      <pubDate>Tue, 14 Dec 2021 15:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 HippoDan opened a short straddle on $RKT expiring 2021-12-23</title>
+      <link>https://thetagang.com/HippoDan/60044888-1c22-4758-9366-02d92c88b718</link>
+      <description>For more details, &lt;a href='https://thetagang.com/HippoDan/60044888-1c22-4758-9366-02d92c88b718'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">60044888-1c22-4758-9366-02d92c88b718-opening</guid>
+      <pubDate>Tue, 14 Dec 2021 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short straddle on $XBI expiring 2022-01-21</title>
+      <link>https://thetagang.com/jrue/cea8401b-458c-4c25-b1db-4a4a5c5ac0f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/cea8401b-458c-4c25-b1db-4a4a5c5ac0f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cea8401b-458c-4c25-b1db-4a4a5c5ac0f8-closing</guid>
+      <pubDate>Wed, 15 Dec 2021 20:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Hanzipanzi opened a short straddle on $X expiring 2022-01-20</title>
+      <link>https://thetagang.com/Hanzipanzi/021ffebb-c6df-4112-a8a6-eb72366096df</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hanzipanzi/021ffebb-c6df-4112-a8a6-eb72366096df'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">021ffebb-c6df-4112-a8a6-eb72366096df-opening</guid>
+      <pubDate>Thu, 23 Dec 2021 18:17:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $TWTR expiring 2022-02-17</title>
+      <link>https://thetagang.com/rocked10/a511df76-b957-4b0d-b75e-4c5e5292caab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/a511df76-b957-4b0d-b75e-4c5e5292caab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a511df76-b957-4b0d-b75e-4c5e5292caab-opening</guid>
+      <pubDate>Fri, 31 Dec 2021 17:22:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $DKNG expiring 2022-02-17</title>
+      <link>https://thetagang.com/rocked10/3cf112ca-f81a-4432-abff-bfe12f1df3eb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/3cf112ca-f81a-4432-abff-bfe12f1df3eb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3cf112ca-f81a-4432-abff-bfe12f1df3eb-opening</guid>
+      <pubDate>Fri, 31 Dec 2021 17:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gruffalo opened a short straddle on $TAL expiring 2022-02-18</title>
+      <link>https://thetagang.com/gruffalo/2dbe165b-97f7-495f-838f-2e34b0a0619f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gruffalo/2dbe165b-97f7-495f-838f-2e34b0a0619f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2dbe165b-97f7-495f-838f-2e34b0a0619f-opening</guid>
+      <pubDate>Mon, 03 Jan 2022 01:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 StrongmanTrader closed a short straddle on $JEF expiring 2022-01-21</title>
+      <link>https://thetagang.com/StrongmanTrader/544529ff-b0c0-4995-ac29-5c5c0156c135</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StrongmanTrader/544529ff-b0c0-4995-ac29-5c5c0156c135'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">544529ff-b0c0-4995-ac29-5c5c0156c135-closing</guid>
+      <pubDate>Wed, 12 Jan 2022 15:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 StrongmanTrader closed a short straddle on $JEF expiring 2022-01-21</title>
+      <link>https://thetagang.com/StrongmanTrader/5f892fcf-4445-4806-b960-ef19f369156a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/StrongmanTrader/5f892fcf-4445-4806-b960-ef19f369156a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5f892fcf-4445-4806-b960-ef19f369156a-closing</guid>
+      <pubDate>Wed, 12 Jan 2022 15:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 JonnCarbon opened a short straddle on $SMH expiring 2022-02-18</title>
+      <link>https://thetagang.com/JonnCarbon/7ac5f8f6-8b96-4923-942b-5adc6f3aa522</link>
+      <description>For more details, &lt;a href='https://thetagang.com/JonnCarbon/7ac5f8f6-8b96-4923-942b-5adc6f3aa522'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7ac5f8f6-8b96-4923-942b-5adc6f3aa522-opening</guid>
+      <pubDate>Wed, 19 Jan 2022 20:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rocked10 opened a short straddle on $PLUG expiring 2022-03-17</title>
+      <link>https://thetagang.com/rocked10/b7599765-ffa8-4363-88c4-dec0aa65c9b6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rocked10/b7599765-ffa8-4363-88c4-dec0aa65c9b6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b7599765-ffa8-4363-88c4-dec0aa65c9b6-opening</guid>
+      <pubDate>Wed, 02 Feb 2022 14:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Tatonka2000 opened a short straddle on $UBER expiring 2022-02-11</title>
+      <link>https://thetagang.com/Tatonka2000/7f885523-52f5-461a-a4e8-ace695613107</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Tatonka2000/7f885523-52f5-461a-a4e8-ace695613107'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7f885523-52f5-461a-a4e8-ace695613107-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:42:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Hanzipanzi opened a short straddle on $X expiring 2022-03-17</title>
+      <link>https://thetagang.com/Hanzipanzi/00a761e3-72eb-448c-8f04-8a0818aa353e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Hanzipanzi/00a761e3-72eb-448c-8f04-8a0818aa353e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">00a761e3-72eb-448c-8f04-8a0818aa353e-opening</guid>
+      <pubDate>Tue, 15 Feb 2022 15:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MNQ expiring 2022-02-25</title>
+      <link>https://thetagang.com/jrue/10952aed-6d83-440e-bcdb-0b581cd19a5e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/10952aed-6d83-440e-bcdb-0b581cd19a5e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">10952aed-6d83-440e-bcdb-0b581cd19a5e-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 20:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TheDigitalPlumber opened a short straddle on $IWM expiring 2022-02-18</title>
+      <link>https://thetagang.com/TheDigitalPlumber/5a751d59-4a47-443a-a7ec-ddc7c0eaf7c2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TheDigitalPlumber/5a751d59-4a47-443a-a7ec-ddc7c0eaf7c2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a751d59-4a47-443a-a7ec-ddc7c0eaf7c2-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 20:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TheDigitalPlumber opened a short straddle on $VZ expiring 2022-02-25</title>
+      <link>https://thetagang.com/TheDigitalPlumber/9ade3a5e-46e1-4945-a06d-86be6dd06597</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TheDigitalPlumber/9ade3a5e-46e1-4945-a06d-86be6dd06597'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ade3a5e-46e1-4945-a06d-86be6dd06597-opening</guid>
+      <pubDate>Fri, 18 Feb 2022 14:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MNQ expiring 2022-03-04</title>
+      <link>https://thetagang.com/jrue/c616cae7-528d-4b32-8d77-81601f691d08</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/c616cae7-528d-4b32-8d77-81601f691d08'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c616cae7-528d-4b32-8d77-81601f691d08-opening</guid>
+      <pubDate>Sat, 26 Feb 2022 00:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $AAL expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/662ed718-c7bc-4ab1-bde5-5ae9a7c1ca18</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/662ed718-c7bc-4ab1-bde5-5ae9a7c1ca18'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">662ed718-c7bc-4ab1-bde5-5ae9a7c1ca18-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $GDX expiring 2022-07-15</title>
+      <link>https://thetagang.com/jrue/717e050f-6fed-489e-b4dc-638d5c853802</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/717e050f-6fed-489e-b4dc-638d5c853802'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">717e050f-6fed-489e-b4dc-638d5c853802-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 20:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 qauz555 opened a short straddle on $SOFI expiring 2023-01-20</title>
+      <link>https://thetagang.com/qauz555/fd7a448e-bf42-4156-9497-933f99e513f2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/qauz555/fd7a448e-bf42-4156-9497-933f99e513f2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd7a448e-bf42-4156-9497-933f99e513f2-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 23:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MES expiring 2023-12-29</title>
+      <link>https://thetagang.com/jrue/9c0e7a73-464f-4503-a121-055f6533655f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9c0e7a73-464f-4503-a121-055f6533655f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9c0e7a73-464f-4503-a121-055f6533655f-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 03:53:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MES expiring 2023-12-29</title>
+      <link>https://thetagang.com/jrue/7aaf1f53-161a-413d-935d-c44d592a34e1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7aaf1f53-161a-413d-935d-c44d592a34e1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7aaf1f53-161a-413d-935d-c44d592a34e1-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 03:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short straddle on $/MES expiring 2023-12-22</title>
+      <link>https://thetagang.com/jrue/3120986c-c346-40a5-8e6d-2d875073484a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/3120986c-c346-40a5-8e6d-2d875073484a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3120986c-c346-40a5-8e6d-2d875073484a-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 07:21:40 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only covered call trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only covered call trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 17 Jan 2024 19:27:59 +0000</lastBuildDate>
+    <item>
+      <title>🌅 mhayden opened a covered call on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/mhayden/f2222e8c-cbad-4de5-9527-9cb84c824eca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mhayden/f2222e8c-cbad-4de5-9527-9cb84c824eca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f2222e8c-cbad-4de5-9527-9cb84c824eca-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 15:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TCB47 opened a covered call on $WOOF expiring 2022-09-16</title>
+      <link>https://thetagang.com/TCB47/45a3dd03-7c80-40f2-8531-459cdf3cdab4</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TCB47/45a3dd03-7c80-40f2-8531-459cdf3cdab4'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">45a3dd03-7c80-40f2-8531-459cdf3cdab4-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 15:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Smoothbrain69 closed a covered call on $GME expiring 2022-06-17</title>
+      <link>https://thetagang.com/Smoothbrain69/51064ef7-9858-4ca6-8eb0-7b949f096396</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/51064ef7-9858-4ca6-8eb0-7b949f096396'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">51064ef7-9858-4ca6-8eb0-7b949f096396-closing</guid>
+      <pubDate>Fri, 17 Jun 2022 15:29:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Smoothbrain69 opened a covered call on $GME expiring 2022-06-17</title>
+      <link>https://thetagang.com/Smoothbrain69/4c0ba5b9-5c96-421e-9a34-df8559d6cb3a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Smoothbrain69/4c0ba5b9-5c96-421e-9a34-df8559d6cb3a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4c0ba5b9-5c96-421e-9a34-df8559d6cb3a-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 15:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a covered call on $NEGG expiring 2022-06-24</title>
+      <link>https://thetagang.com/antimeta/17ce8b10-f047-4d14-9c4f-ee83c1f55085</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/17ce8b10-f047-4d14-9c4f-ee83c1f55085'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17ce8b10-f047-4d14-9c4f-ee83c1f55085-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 15:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a covered call on $AAPL expiring 2022-06-24</title>
+      <link>https://thetagang.com/yueyanglu319/fb780c92-919b-42fc-b2cc-a0599e2ef3ab</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/fb780c92-919b-42fc-b2cc-a0599e2ef3ab'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb780c92-919b-42fc-b2cc-a0599e2ef3ab-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 15:46:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 SadPharmacist opened a covered call on $NIO expiring 2022-07-21</title>
+      <link>https://thetagang.com/SadPharmacist/6a1c64f2-9045-4292-96c7-789b418207f8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/SadPharmacist/6a1c64f2-9045-4292-96c7-789b418207f8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6a1c64f2-9045-4292-96c7-789b418207f8-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 JumpingJupiter opened a covered call on $PLTR expiring 2022-07-15</title>
+      <link>https://thetagang.com/JumpingJupiter/81a96847-a065-42ae-af94-f651ab04487c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/JumpingJupiter/81a96847-a065-42ae-af94-f651ab04487c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">81a96847-a065-42ae-af94-f651ab04487c-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:31:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 afong opened a covered call on $STWD expiring 2022-08-19</title>
+      <link>https://thetagang.com/afong/b6ac9cde-2bd7-4d38-ae71-8e7575b43bb2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/afong/b6ac9cde-2bd7-4d38-ae71-8e7575b43bb2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b6ac9cde-2bd7-4d38-ae71-8e7575b43bb2-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 afong opened a covered call on $STWD expiring 2022-08-19</title>
+      <link>https://thetagang.com/afong/5d4e046a-792c-477f-bf86-418c04311670</link>
+      <description>For more details, &lt;a href='https://thetagang.com/afong/5d4e046a-792c-477f-bf86-418c04311670'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d4e046a-792c-477f-bf86-418c04311670-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 afong opened a covered call on $RBLX expiring 2022-08-19</title>
+      <link>https://thetagang.com/afong/a8f51202-754f-4c2e-910f-ff3b57b4aecd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/afong/a8f51202-754f-4c2e-910f-ff3b57b4aecd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a8f51202-754f-4c2e-910f-ff3b57b4aecd-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rickle_pick opened a covered call on $QS expiring 2022-06-24</title>
+      <link>https://thetagang.com/Rickle_pick/8fbcdb38-e251-45ed-bd51-e9003d63e6ca</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rickle_pick/8fbcdb38-e251-45ed-bd51-e9003d63e6ca'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8fbcdb38-e251-45ed-bd51-e9003d63e6ca-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 afong opened a covered call on $COIN expiring 2022-08-19</title>
+      <link>https://thetagang.com/afong/dd832e42-9a29-4ef3-ad2a-39253cac26f0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/afong/dd832e42-9a29-4ef3-ad2a-39253cac26f0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dd832e42-9a29-4ef3-ad2a-39253cac26f0-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:56:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 afong opened a covered call on $QQQ expiring 2022-08-19</title>
+      <link>https://thetagang.com/afong/096e3ceb-0671-4d75-8001-b71568312736</link>
+      <description>For more details, &lt;a href='https://thetagang.com/afong/096e3ceb-0671-4d75-8001-b71568312736'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">096e3ceb-0671-4d75-8001-b71568312736-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 16:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chickensweetpotato opened a covered call on $RKT expiring 2022-06-30</title>
+      <link>https://thetagang.com/chickensweetpotato/22cdc517-10dc-4b1f-be03-76ad28b26217</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chickensweetpotato/22cdc517-10dc-4b1f-be03-76ad28b26217'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">22cdc517-10dc-4b1f-be03-76ad28b26217-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mm opened a covered call on $ASO expiring 2022-07-29</title>
+      <link>https://thetagang.com/mm/dc0861a3-8161-4c9c-9f24-93c63538bf6a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mm/dc0861a3-8161-4c9c-9f24-93c63538bf6a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">dc0861a3-8161-4c9c-9f24-93c63538bf6a-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:10:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 callme_beepme opened a covered call on $JETS expiring 2022-07-29</title>
+      <link>https://thetagang.com/callme_beepme/0da864d3-39a8-42ec-ae8f-b6d35f3d7388</link>
+      <description>For more details, &lt;a href='https://thetagang.com/callme_beepme/0da864d3-39a8-42ec-ae8f-b6d35f3d7388'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0da864d3-39a8-42ec-ae8f-b6d35f3d7388-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 callme_beepme opened a covered call on $SOXL expiring 2022-07-29</title>
+      <link>https://thetagang.com/callme_beepme/1fd5b936-4501-40f2-a44a-b631efdc3b6d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/callme_beepme/1fd5b936-4501-40f2-a44a-b631efdc3b6d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1fd5b936-4501-40f2-a44a-b631efdc3b6d-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 callme_beepme opened a covered call on $AAPL expiring 2022-07-29</title>
+      <link>https://thetagang.com/callme_beepme/36ebbfff-dde4-4667-aa94-76a0dd64b602</link>
+      <description>For more details, &lt;a href='https://thetagang.com/callme_beepme/36ebbfff-dde4-4667-aa94-76a0dd64b602'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36ebbfff-dde4-4667-aa94-76a0dd64b602-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Mr_integrity opened a covered call on $AMD expiring 2022-07-15</title>
+      <link>https://thetagang.com/Mr_integrity/bdc65d1c-e5e2-4f4b-ab7f-5b9ad6c19a0d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/bdc65d1c-e5e2-4f4b-ab7f-5b9ad6c19a0d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bdc65d1c-e5e2-4f4b-ab7f-5b9ad6c19a0d-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 callme_beepme opened a covered call on $SPXL expiring 2022-07-15</title>
+      <link>https://thetagang.com/callme_beepme/890cd8ae-89d4-46da-85b6-7ed92c37754c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/callme_beepme/890cd8ae-89d4-46da-85b6-7ed92c37754c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">890cd8ae-89d4-46da-85b6-7ed92c37754c-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:43:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a covered call on $TSLA expiring 2022-06-24</title>
+      <link>https://thetagang.com/randman70/1b3c6546-9e0d-4291-a97f-c20da25b2afe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/1b3c6546-9e0d-4291-a97f-c20da25b2afe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1b3c6546-9e0d-4291-a97f-c20da25b2afe-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 callme_beepme opened a covered call on $LYFT expiring 2022-07-29</title>
+      <link>https://thetagang.com/callme_beepme/62959892-a787-4634-b40a-c4c6839f8d63</link>
+      <description>For more details, &lt;a href='https://thetagang.com/callme_beepme/62959892-a787-4634-b40a-c4c6839f8d63'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">62959892-a787-4634-b40a-c4c6839f8d63-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a covered call on $TSLA expiring 2022-06-24</title>
+      <link>https://thetagang.com/dalben/a4eace38-e24c-4595-ae6e-ff9e30033aa2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/a4eace38-e24c-4595-ae6e-ff9e30033aa2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a4eace38-e24c-4595-ae6e-ff9e30033aa2-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 mhayden opened a covered call on $SPY expiring 2022-07-15</title>
+      <link>https://thetagang.com/mhayden/e54adfff-c864-45ac-8454-ed6fd9ab25d5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/mhayden/e54adfff-c864-45ac-8454-ed6fd9ab25d5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e54adfff-c864-45ac-8454-ed6fd9ab25d5-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 17:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rcastro70 opened a covered call on $NIO expiring 2022-06-24</title>
+      <link>https://thetagang.com/rcastro70/a70578b2-5ad4-4612-8c19-40fcad43cba9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rcastro70/a70578b2-5ad4-4612-8c19-40fcad43cba9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a70578b2-5ad4-4612-8c19-40fcad43cba9-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 macbeth opened a covered call on $ELY expiring 2022-06-24</title>
+      <link>https://thetagang.com/macbeth/fe9ca635-724e-4905-9803-3d0e1313fac0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/macbeth/fe9ca635-724e-4905-9803-3d0e1313fac0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe9ca635-724e-4905-9803-3d0e1313fac0-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 tickelous opened a covered call on $SOFI expiring 2022-07-22</title>
+      <link>https://thetagang.com/tickelous/af459f70-f205-44ef-b2ea-d68ff056b720</link>
+      <description>For more details, &lt;a href='https://thetagang.com/tickelous/af459f70-f205-44ef-b2ea-d68ff056b720'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">af459f70-f205-44ef-b2ea-d68ff056b720-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a covered call on $SOFI expiring 2022-06-24</title>
+      <link>https://thetagang.com/Bwach16/1e2de79e-3f7b-4cb7-8ab5-8307d1837542</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/1e2de79e-3f7b-4cb7-8ab5-8307d1837542'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1e2de79e-3f7b-4cb7-8ab5-8307d1837542-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a covered call on $SOFI expiring 2022-07-01</title>
+      <link>https://thetagang.com/Bwach16/f16a7fb3-eea0-49a9-85ca-86bc870c9c1f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/f16a7fb3-eea0-49a9-85ca-86bc870c9c1f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f16a7fb3-eea0-49a9-85ca-86bc870c9c1f-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Bwach16 opened a covered call on $SOFI expiring 2022-07-01</title>
+      <link>https://thetagang.com/Bwach16/83245404-26fc-4cab-96ca-fb8d83e81f90</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Bwach16/83245404-26fc-4cab-96ca-fb8d83e81f90'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">83245404-26fc-4cab-96ca-fb8d83e81f90-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 18:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Zdweinberg opened a covered call on $DAL expiring 2022-08-19</title>
+      <link>https://thetagang.com/Zdweinberg/da63b265-2110-41ce-b046-e12c3d0c8de0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Zdweinberg/da63b265-2110-41ce-b046-e12c3d0c8de0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">da63b265-2110-41ce-b046-e12c3d0c8de0-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Zdweinberg opened a covered call on $IWM expiring 2022-08-19</title>
+      <link>https://thetagang.com/Zdweinberg/3b3eef16-9450-4a8d-8eac-928cce1274d5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Zdweinberg/3b3eef16-9450-4a8d-8eac-928cce1274d5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3b3eef16-9450-4a8d-8eac-928cce1274d5-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nickels opened a covered call on $GME expiring 2022-06-23</title>
+      <link>https://thetagang.com/Nickels/a6e81568-a9bd-44d2-a05b-0e2ed1d9bb94</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nickels/a6e81568-a9bd-44d2-a05b-0e2ed1d9bb94'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a6e81568-a9bd-44d2-a05b-0e2ed1d9bb94-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Nickels opened a covered call on $AMC expiring 2022-06-23</title>
+      <link>https://thetagang.com/Nickels/65537f66-9727-4ee8-9b30-a377c27d8275</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Nickels/65537f66-9727-4ee8-9b30-a377c27d8275'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">65537f66-9727-4ee8-9b30-a377c27d8275-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:52:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 EZmoneySniper opened a covered call on $CCL expiring 2022-06-24</title>
+      <link>https://thetagang.com/EZmoneySniper/cf070ff5-96fc-4413-8cd9-cb1e5533aacb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/EZmoneySniper/cf070ff5-96fc-4413-8cd9-cb1e5533aacb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cf070ff5-96fc-4413-8cd9-cb1e5533aacb-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 19:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Flytrader opened a covered call on $ZM expiring 2022-07-15</title>
+      <link>https://thetagang.com/Flytrader/d3fa5d1b-582f-4d78-ac49-dbb487c8f3e8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Flytrader/d3fa5d1b-582f-4d78-ac49-dbb487c8f3e8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d3fa5d1b-582f-4d78-ac49-dbb487c8f3e8-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 22:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 desertsherpa opened a covered call on $MVIS expiring 2022-06-24</title>
+      <link>https://thetagang.com/desertsherpa/46ece05b-e281-4165-966e-70ee914bdbad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/desertsherpa/46ece05b-e281-4165-966e-70ee914bdbad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">46ece05b-e281-4165-966e-70ee914bdbad-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 00:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 246ngj opened a covered call on $ACB expiring 2022-07-01</title>
+      <link>https://thetagang.com/246ngj/00b17411-49fa-4332-a5a8-163757807c9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/246ngj/00b17411-49fa-4332-a5a8-163757807c9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">00b17411-49fa-4332-a5a8-163757807c9d-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 06:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CallsOnAlcoholism opened a covered call on $FSLY expiring 2022-06-30</title>
+      <link>https://thetagang.com/CallsOnAlcoholism/27c362f6-2fe2-46f6-aaa5-a0ac7f1f9e8a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CallsOnAlcoholism/27c362f6-2fe2-46f6-aaa5-a0ac7f1f9e8a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">27c362f6-2fe2-46f6-aaa5-a0ac7f1f9e8a-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 06:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CallsOnAlcoholism opened a covered call on $DKNG expiring 2022-06-30</title>
+      <link>https://thetagang.com/CallsOnAlcoholism/2558f67f-7219-490e-8b27-979eadf7f0a5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CallsOnAlcoholism/2558f67f-7219-490e-8b27-979eadf7f0a5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2558f67f-7219-490e-8b27-979eadf7f0a5-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 06:50:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 CallsOnAlcoholism opened a covered call on $CLOV expiring 2022-07-07</title>
+      <link>https://thetagang.com/CallsOnAlcoholism/ac1f739d-9af3-4bc3-b087-c9370641ea9f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/CallsOnAlcoholism/ac1f739d-9af3-4bc3-b087-c9370641ea9f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac1f739d-9af3-4bc3-b087-c9370641ea9f-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 06:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 comfortcube opened a covered call on $PLTR expiring 2022-06-24</title>
+      <link>https://thetagang.com/comfortcube/36f25a1a-b799-45c4-b9ff-d03b3d3f9dcc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/comfortcube/36f25a1a-b799-45c4-b9ff-d03b3d3f9dcc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36f25a1a-b799-45c4-b9ff-d03b3d3f9dcc-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 13:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bd_one opened a covered call on $AMC expiring 2022-07-01</title>
+      <link>https://thetagang.com/bd_one/ad457909-ec52-453e-8ed5-e5f09153d58a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bd_one/ad457909-ec52-453e-8ed5-e5f09153d58a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad457909-ec52-453e-8ed5-e5f09153d58a-opening</guid>
+      <pubDate>Sat, 18 Jun 2022 20:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 minaventura opened a covered call on $SOFI expiring 2023-08-31</title>
+      <link>https://thetagang.com/minaventura/519ee74a-99b5-439e-8b51-964194948b76</link>
+      <description>For more details, &lt;a href='https://thetagang.com/minaventura/519ee74a-99b5-439e-8b51-964194948b76'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">519ee74a-99b5-439e-8b51-964194948b76-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 13:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 minaventura opened a covered call on $SOFI expiring 2023-08-31</title>
+      <link>https://thetagang.com/minaventura/5dbfac3e-7b92-4de6-8172-fcc8426ee1fd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/minaventura/5dbfac3e-7b92-4de6-8172-fcc8426ee1fd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5dbfac3e-7b92-4de6-8172-fcc8426ee1fd-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 13:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a covered call on $AMD expiring 2023-09-22</title>
+      <link>https://thetagang.com/dom747/e767285b-c1e5-427a-8f94-ba14818c3d5b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/e767285b-c1e5-427a-8f94-ba14818c3d5b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e767285b-c1e5-427a-8f94-ba14818c3d5b-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 14:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 thizzle opened a covered call on $AMD expiring 2023-09-08</title>
+      <link>https://thetagang.com/thizzle/3fc99b7f-ebfa-4b1c-bda3-f8f69bcc623d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thizzle/3fc99b7f-ebfa-4b1c-bda3-f8f69bcc623d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3fc99b7f-ebfa-4b1c-bda3-f8f69bcc623d-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 15:18:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MaestroXC opened a covered call on $AMD expiring 2023-09-29</title>
+      <link>https://thetagang.com/MaestroXC/160f0ef5-83b8-485c-8eac-e44407849abe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/160f0ef5-83b8-485c-8eac-e44407849abe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">160f0ef5-83b8-485c-8eac-e44407849abe-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 15:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 MaestroXC closed a covered call on $AMD expiring 2023-09-15</title>
+      <link>https://thetagang.com/MaestroXC/30a931d2-72ea-494a-8063-8e7e2040bf05</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MaestroXC/30a931d2-72ea-494a-8063-8e7e2040bf05'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30a931d2-72ea-494a-8063-8e7e2040bf05-closing</guid>
+      <pubDate>Fri, 01 Sep 2023 15:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dom747 opened a covered call on $ARCB expiring 2023-09-15</title>
+      <link>https://thetagang.com/dom747/1b4e0323-0069-4cd8-8c06-8d088c590ae0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dom747/1b4e0323-0069-4cd8-8c06-8d088c590ae0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1b4e0323-0069-4cd8-8c06-8d088c590ae0-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 15:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 roth_daddy opened a covered call on $ENPH expiring 2023-10-20</title>
+      <link>https://thetagang.com/roth_daddy/a98a2361-ac49-4de3-a085-e5ca9927e56c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/roth_daddy/a98a2361-ac49-4de3-a085-e5ca9927e56c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a98a2361-ac49-4de3-a085-e5ca9927e56c-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 16:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 geemoon opened a covered call on $GME expiring 2023-09-29</title>
+      <link>https://thetagang.com/geemoon/d49762b8-b775-4e3c-b474-22ab0713cc23</link>
+      <description>For more details, &lt;a href='https://thetagang.com/geemoon/d49762b8-b775-4e3c-b474-22ab0713cc23'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d49762b8-b775-4e3c-b474-22ab0713cc23-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 17:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Roostard opened a covered call on $AMD expiring 2023-09-15</title>
+      <link>https://thetagang.com/Roostard/7b025925-948f-4669-963b-52031cedcaad</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Roostard/7b025925-948f-4669-963b-52031cedcaad'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7b025925-948f-4669-963b-52031cedcaad-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 18:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 sunshine_bunny closed a covered call on $EOSE expiring 2023-09-01</title>
+      <link>https://thetagang.com/sunshine_bunny/ca42f193-dbb8-4de1-8452-460aba8b465e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/sunshine_bunny/ca42f193-dbb8-4de1-8452-460aba8b465e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ca42f193-dbb8-4de1-8452-460aba8b465e-closing</guid>
+      <pubDate>Fri, 01 Sep 2023 18:25:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Potator opened a covered call on $AMD expiring 2023-10-06</title>
+      <link>https://thetagang.com/Potator/c17054c5-6f5e-4384-817e-cdd19c7d6e87</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Potator/c17054c5-6f5e-4384-817e-cdd19c7d6e87'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c17054c5-6f5e-4384-817e-cdd19c7d6e87-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 19:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Potator opened a covered call on $TSLA expiring 2023-10-06</title>
+      <link>https://thetagang.com/Potator/5513136b-9b53-404e-9817-97d67c8cf48f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Potator/5513136b-9b53-404e-9817-97d67c8cf48f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5513136b-9b53-404e-9817-97d67c8cf48f-opening</guid>
+      <pubDate>Fri, 01 Sep 2023 19:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 iulian opened a covered call on $LCID expiring 2023-09-07</title>
+      <link>https://thetagang.com/iulian/86208da0-680c-4072-a8e6-0d7a823da8d0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/iulian/86208da0-680c-4072-a8e6-0d7a823da8d0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">86208da0-680c-4072-a8e6-0d7a823da8d0-opening</guid>
+      <pubDate>Sun, 03 Sep 2023 05:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 blobbingaway opened a covered call on $SOFI expiring 2024-01-19</title>
+      <link>https://thetagang.com/blobbingaway/827644b3-6282-4ba5-ac9b-ce7d2f23c69a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/blobbingaway/827644b3-6282-4ba5-ac9b-ce7d2f23c69a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">827644b3-6282-4ba5-ac9b-ce7d2f23c69a-opening</guid>
+      <pubDate>Mon, 04 Dec 2023 18:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a covered call on $DOCU expiring 2023-12-08</title>
+      <link>https://thetagang.com/jrue/6c3c8e4d-308a-4d71-ab9a-d8dbba8702f7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/6c3c8e4d-308a-4d71-ab9a-d8dbba8702f7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6c3c8e4d-308a-4d71-ab9a-d8dbba8702f7-opening</guid>
+      <pubDate>Mon, 04 Dec 2023 19:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 wallapuctus opened a covered call on $SOFI expiring 2023-12-29</title>
+      <link>https://thetagang.com/wallapuctus/b0d23458-fccc-49e9-bc46-88dec5108a6c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/wallapuctus/b0d23458-fccc-49e9-bc46-88dec5108a6c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b0d23458-fccc-49e9-bc46-88dec5108a6c-opening</guid>
+      <pubDate>Mon, 04 Dec 2023 20:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a covered call on $MRVL expiring 2023-12-08</title>
+      <link>https://thetagang.com/aaronwang101/7308f429-0f9b-4dee-be39-2d364f9f140b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/7308f429-0f9b-4dee-be39-2d364f9f140b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7308f429-0f9b-4dee-be39-2d364f9f140b-opening</guid>
+      <pubDate>Mon, 04 Dec 2023 20:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 shadynasty opened a covered call on $LMND expiring 2023-12-15</title>
+      <link>https://thetagang.com/shadynasty/c3c06a10-d86d-4e31-87f7-2119d2a79183</link>
+      <description>For more details, &lt;a href='https://thetagang.com/shadynasty/c3c06a10-d86d-4e31-87f7-2119d2a79183'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c3c06a10-d86d-4e31-87f7-2119d2a79183-opening</guid>
+      <pubDate>Mon, 04 Dec 2023 22:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Spinbob opened a covered call on $APPS expiring 2023-12-22</title>
+      <link>https://thetagang.com/Spinbob/e4693533-502c-4b83-bd87-455a1161279d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Spinbob/e4693533-502c-4b83-bd87-455a1161279d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e4693533-502c-4b83-bd87-455a1161279d-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 04:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $VXX expiring 2023-12-08</title>
+      <link>https://thetagang.com/relloydjr/fb2b5015-9b03-4959-acdb-60939d86e6b1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/fb2b5015-9b03-4959-acdb-60939d86e6b1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb2b5015-9b03-4959-acdb-60939d86e6b1-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 06:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $ASTS expiring 2023-12-08</title>
+      <link>https://thetagang.com/relloydjr/4d41b2ef-e964-4b37-b80a-ca01a75ea990</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/4d41b2ef-e964-4b37-b80a-ca01a75ea990'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4d41b2ef-e964-4b37-b80a-ca01a75ea990-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 06:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Droptop opened a covered call on $DIS expiring 2024-01-19</title>
+      <link>https://thetagang.com/Droptop/b31ee849-268a-4cad-8ba3-076084739fa0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Droptop/b31ee849-268a-4cad-8ba3-076084739fa0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b31ee849-268a-4cad-8ba3-076084739fa0-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 14:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Serrano opened a covered call on $GME expiring 2023-12-08</title>
+      <link>https://thetagang.com/Serrano/6249cd08-c529-4751-a293-1863a8c7af00</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Serrano/6249cd08-c529-4751-a293-1863a8c7af00'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6249cd08-c529-4751-a293-1863a8c7af00-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 15:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dc1210 opened a covered call on $AMD expiring 2023-12-08</title>
+      <link>https://thetagang.com/dc1210/fb88b59c-5ddd-4b57-b62b-2f45e1b2721c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dc1210/fb88b59c-5ddd-4b57-b62b-2f45e1b2721c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fb88b59c-5ddd-4b57-b62b-2f45e1b2721c-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 16:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lg4211 opened a covered call on $MNMD expiring 2024-01-24</title>
+      <link>https://thetagang.com/lg4211/cac6b511-bfc4-444e-a708-07b9dd1b957d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lg4211/cac6b511-bfc4-444e-a708-07b9dd1b957d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">cac6b511-bfc4-444e-a708-07b9dd1b957d-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 16:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a covered call on $JD expiring 2023-12-15</title>
+      <link>https://thetagang.com/aaronwang101/2847ee4f-9b88-4b29-a6fd-03994219c99a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/2847ee4f-9b88-4b29-a6fd-03994219c99a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2847ee4f-9b88-4b29-a6fd-03994219c99a-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 17:23:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Burnttoast opened a covered call on $SOXL expiring 2024-02-16</title>
+      <link>https://thetagang.com/Burnttoast/d884263f-4ce4-4b3d-94ff-10cdc54f6318</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Burnttoast/d884263f-4ce4-4b3d-94ff-10cdc54f6318'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d884263f-4ce4-4b3d-94ff-10cdc54f6318-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 17:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 prosciutto opened a covered call on $NVDA expiring 2024-01-19</title>
+      <link>https://thetagang.com/prosciutto/b9746a6f-5a62-4f2a-852d-bc4b5b07d957</link>
+      <description>For more details, &lt;a href='https://thetagang.com/prosciutto/b9746a6f-5a62-4f2a-852d-bc4b5b07d957'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b9746a6f-5a62-4f2a-852d-bc4b5b07d957-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 17:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a covered call on $CHWY expiring 2023-12-15</title>
+      <link>https://thetagang.com/jrue/7e62b0cc-36ea-4d6c-b158-6bdde73daebb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7e62b0cc-36ea-4d6c-b158-6bdde73daebb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7e62b0cc-36ea-4d6c-b158-6bdde73daebb-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 18:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 notawesomeenough closed a covered call on $TSLA expiring 2023-12-15</title>
+      <link>https://thetagang.com/notawesomeenough/90615c0f-858c-4e7b-92f4-d5128cc441a7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/notawesomeenough/90615c0f-858c-4e7b-92f4-d5128cc441a7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">90615c0f-858c-4e7b-92f4-d5128cc441a7-closing</guid>
+      <pubDate>Tue, 05 Dec 2023 18:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a covered call on $FL expiring 2023-12-08</title>
+      <link>https://thetagang.com/jrue/bc763880-daee-45dc-959c-8a0271103957</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/bc763880-daee-45dc-959c-8a0271103957'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">bc763880-daee-45dc-959c-8a0271103957-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 19:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a covered call on $HOOD expiring 2023-12-15</title>
+      <link>https://thetagang.com/jrue/9174cca3-57aa-48db-ba60-2fbfb64e64b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/9174cca3-57aa-48db-ba60-2fbfb64e64b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9174cca3-57aa-48db-ba60-2fbfb64e64b8-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 19:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 thizzle opened a covered call on $AMD expiring 2023-12-08</title>
+      <link>https://thetagang.com/thizzle/7d21c7d3-569c-4e7e-bca9-b7d1208ad3fa</link>
+      <description>For more details, &lt;a href='https://thetagang.com/thizzle/7d21c7d3-569c-4e7e-bca9-b7d1208ad3fa'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7d21c7d3-569c-4e7e-bca9-b7d1208ad3fa-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 20:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $VXX expiring 2023-12-15</title>
+      <link>https://thetagang.com/relloydjr/4b023ff6-42aa-4a61-8cf5-49f9fbe98b97</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/4b023ff6-42aa-4a61-8cf5-49f9fbe98b97'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4b023ff6-42aa-4a61-8cf5-49f9fbe98b97-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 21:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 AMiner26 opened a covered call on $ALK expiring 2023-12-15</title>
+      <link>https://thetagang.com/AMiner26/490c7402-4c43-4be1-824d-060efab5f433</link>
+      <description>For more details, &lt;a href='https://thetagang.com/AMiner26/490c7402-4c43-4be1-824d-060efab5f433'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">490c7402-4c43-4be1-824d-060efab5f433-opening</guid>
+      <pubDate>Wed, 06 Dec 2023 00:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $ZIM expiring 2024-01-19</title>
+      <link>https://thetagang.com/relloydjr/79c53f3a-c4f5-4a96-bba4-b1099bf20b9a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/79c53f3a-c4f5-4a96-bba4-b1099bf20b9a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">79c53f3a-c4f5-4a96-bba4-b1099bf20b9a-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 05:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $BITO expiring 2024-01-26</title>
+      <link>https://thetagang.com/relloydjr/f201d4cc-4e12-4f65-bf47-95b5c2bfc188</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/f201d4cc-4e12-4f65-bf47-95b5c2bfc188'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f201d4cc-4e12-4f65-bf47-95b5c2bfc188-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 05:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 relloydjr opened a covered call on $ASTS expiring 2024-01-26</title>
+      <link>https://thetagang.com/relloydjr/72009de9-3483-498d-a6f0-2ec6a0809954</link>
+      <description>For more details, &lt;a href='https://thetagang.com/relloydjr/72009de9-3483-498d-a6f0-2ec6a0809954'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">72009de9-3483-498d-a6f0-2ec6a0809954-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 05:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 waustin555 opened a covered call on $CELH expiring 2024-01-26</title>
+      <link>https://thetagang.com/waustin555/5a62d9ef-1a06-417d-b85f-0cc08edfbaf0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/5a62d9ef-1a06-417d-b85f-0cc08edfbaf0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a62d9ef-1a06-417d-b85f-0cc08edfbaf0-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 14:40:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 BaldGuy54 opened a covered call on $F expiring 2024-01-19</title>
+      <link>https://thetagang.com/BaldGuy54/97d27d95-932b-4fa3-ad41-c2b5ad05da62</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BaldGuy54/97d27d95-932b-4fa3-ad41-c2b5ad05da62'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">97d27d95-932b-4fa3-ad41-c2b5ad05da62-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 14:41:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 waustin555 opened a covered call on $GTLB expiring 2024-01-26</title>
+      <link>https://thetagang.com/waustin555/de434223-be5c-4174-8e89-c0c19bec0443</link>
+      <description>For more details, &lt;a href='https://thetagang.com/waustin555/de434223-be5c-4174-8e89-c0c19bec0443'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">de434223-be5c-4174-8e89-c0c19bec0443-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 15:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 aaronwang101 opened a covered call on $JD expiring 2024-02-16</title>
+      <link>https://thetagang.com/aaronwang101/f3937cf8-164e-47f3-bfde-25efde2c26d9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/aaronwang101/f3937cf8-164e-47f3-bfde-25efde2c26d9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f3937cf8-164e-47f3-bfde-25efde2c26d9-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 15:53:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a covered call on $TLT expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/743e47b2-0734-483c-8f16-f97b70c48aac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/743e47b2-0734-483c-8f16-f97b70c48aac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">743e47b2-0734-483c-8f16-f97b70c48aac-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 16:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Mr_integrity opened a covered call on $ARM expiring 2024-01-26</title>
+      <link>https://thetagang.com/Mr_integrity/7804c2d5-7044-4f50-955e-c9ef1f1df271</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Mr_integrity/7804c2d5-7044-4f50-955e-c9ef1f1df271'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7804c2d5-7044-4f50-955e-c9ef1f1df271-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 16:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 maltman1856 closed a covered call on $AMD expiring 2024-01-26</title>
+      <link>https://thetagang.com/maltman1856/75fc6739-82d4-4498-91c8-136e2d7f6526</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/75fc6739-82d4-4498-91c8-136e2d7f6526'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">75fc6739-82d4-4498-91c8-136e2d7f6526-closing</guid>
+      <pubDate>Wed, 17 Jan 2024 16:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 joeheecho opened a covered call on $GME expiring 2024-02-09</title>
+      <link>https://thetagang.com/joeheecho/a1de7f68-8f7f-4f20-a31f-2e778a82613a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/joeheecho/a1de7f68-8f7f-4f20-a31f-2e778a82613a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1de7f68-8f7f-4f20-a31f-2e778a82613a-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 16:42:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 computerb0y opened a covered call on $PLTR expiring 2024-01-26</title>
+      <link>https://thetagang.com/computerb0y/fe98a489-449d-4e81-bc83-afc380f13893</link>
+      <description>For more details, &lt;a href='https://thetagang.com/computerb0y/fe98a489-449d-4e81-bc83-afc380f13893'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe98a489-449d-4e81-bc83-afc380f13893-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 16:48:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 NewDiversity opened a covered call on $BJ expiring 2024-02-16</title>
+      <link>https://thetagang.com/NewDiversity/9bbd28b7-9492-4124-bc41-bcbb2e6394f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/NewDiversity/9bbd28b7-9492-4124-bc41-bcbb2e6394f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9bbd28b7-9492-4124-bc41-bcbb2e6394f3-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 17:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 maltman1856 opened a covered call on $AMD expiring 2024-01-26</title>
+      <link>https://thetagang.com/maltman1856/ea504e7a-67fe-4eb8-a964-d838886a97f3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/maltman1856/ea504e7a-67fe-4eb8-a964-d838886a97f3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea504e7a-67fe-4eb8-a964-d838886a97f3-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 17:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dpjamison opened a covered call on $BAC expiring 2024-02-02</title>
+      <link>https://thetagang.com/dpjamison/8f61bb4a-3f1a-469f-bbe0-cc7a9735dc6b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dpjamison/8f61bb4a-3f1a-469f-bbe0-cc7a9735dc6b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8f61bb4a-3f1a-469f-bbe0-cc7a9735dc6b-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 17:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 pinktape opened a covered call on $GME expiring 2024-02-02</title>
+      <link>https://thetagang.com/pinktape/ad72fbec-206e-4743-9994-9be73a10aeff</link>
+      <description>For more details, &lt;a href='https://thetagang.com/pinktape/ad72fbec-206e-4743-9994-9be73a10aeff'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ad72fbec-206e-4743-9994-9be73a10aeff-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 18:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 peachlicense opened a covered call on $MARA expiring 2024-01-26</title>
+      <link>https://thetagang.com/peachlicense/81db6f19-b991-4067-a988-ee02a4124699</link>
+      <description>For more details, &lt;a href='https://thetagang.com/peachlicense/81db6f19-b991-4067-a988-ee02a4124699'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">81db6f19-b991-4067-a988-ee02a4124699-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 18:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 groovyzebra opened a covered call on $SEDG expiring 2024-01-19</title>
+      <link>https://thetagang.com/groovyzebra/1cb9671b-b314-44e7-b963-168191861b64</link>
+      <description>For more details, &lt;a href='https://thetagang.com/groovyzebra/1cb9671b-b314-44e7-b963-168191861b64'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1cb9671b-b314-44e7-b963-168191861b64-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 18:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 groovyzebra opened a covered call on $ALB expiring 2024-01-19</title>
+      <link>https://thetagang.com/groovyzebra/752f4a04-be48-4d94-a75f-ea119e51d45c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/groovyzebra/752f4a04-be48-4d94-a75f-ea119e51d45c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">752f4a04-be48-4d94-a75f-ea119e51d45c-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 18:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 groovyzebra opened a covered call on $SAVE expiring 2024-01-19</title>
+      <link>https://thetagang.com/groovyzebra/b79130a2-5897-4939-9feb-81af831178a0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/groovyzebra/b79130a2-5897-4939-9feb-81af831178a0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b79130a2-5897-4939-9feb-81af831178a0-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 19:04:12 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

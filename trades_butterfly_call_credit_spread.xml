@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only butterfly call credit spread trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only butterfly call credit spread trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 17 Jan 2024 19:27:59 +0000</lastBuildDate>
+    <item>
+      <title>🏁 Dafris_Capital closed a butterfly call credit spread on $XLC expiring 2023-04-21</title>
+      <link>https://thetagang.com/Dafris_Capital/87fb17df-218c-4e69-abdf-8be4e8d9d754</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/87fb17df-218c-4e69-abdf-8be4e8d9d754'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">87fb17df-218c-4e69-abdf-8be4e8d9d754-closing</guid>
+      <pubDate>Sat, 02 Sep 2023 16:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Dafris_Capital opened a butterfly call credit spread on $XLC expiring 2023-05-19</title>
+      <link>https://thetagang.com/Dafris_Capital/ac3c782d-85e9-4f44-b9b9-6438cf61f731</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/ac3c782d-85e9-4f44-b9b9-6438cf61f731'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ac3c782d-85e9-4f44-b9b9-6438cf61f731-opening</guid>
+      <pubDate>Sat, 02 Sep 2023 21:26:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

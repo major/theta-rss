@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ThetaGang Trades: Only short iron condor trades</title>
+    <link>https://thetagang.com/</link>
+    <description>ThetaGang Trades: Only short iron condor trades</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 17 Jan 2024 19:28:00 +0000</lastBuildDate>
+    <item>
+      <title>🏁 BNZ closed a short iron condor on $PYPL expiring 2022-02-04</title>
+      <link>https://thetagang.com/BNZ/93f4b428-11b9-47fe-bfdf-a107971d3c2c</link>
+      <description>For more details, &lt;a href='https://thetagang.com/BNZ/93f4b428-11b9-47fe-bfdf-a107971d3c2c'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">93f4b428-11b9-47fe-bfdf-a107971d3c2c-closing</guid>
+      <pubDate>Thu, 03 Feb 2022 15:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chaoas opened a short iron condor on $SPY expiring 2022-02-04</title>
+      <link>https://thetagang.com/chaoas/206c5be7-4517-4d28-94b2-c02b978a5abe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/206c5be7-4517-4d28-94b2-c02b978a5abe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">206c5be7-4517-4d28-94b2-c02b978a5abe-opening</guid>
+      <pubDate>Thu, 03 Feb 2022 23:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Zdweinberg closed a short iron condor on $SPX expiring 2022-02-04</title>
+      <link>https://thetagang.com/Zdweinberg/1c6ddc22-7829-4ec4-b997-e1a60fe28c45</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Zdweinberg/1c6ddc22-7829-4ec4-b997-e1a60fe28c45'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1c6ddc22-7829-4ec4-b997-e1a60fe28c45-closing</guid>
+      <pubDate>Fri, 04 Feb 2022 15:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gruffalo opened a short iron condor on $COST expiring 2022-03-18</title>
+      <link>https://thetagang.com/gruffalo/f5404b48-e4f8-40ef-92e6-58a6bcecc994</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gruffalo/f5404b48-e4f8-40ef-92e6-58a6bcecc994'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f5404b48-e4f8-40ef-92e6-58a6bcecc994-opening</guid>
+      <pubDate>Fri, 04 Feb 2022 21:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Justinkredible007 closed a short iron condor on $SPOT expiring 2022-02-04</title>
+      <link>https://thetagang.com/Justinkredible007/7bb87835-670a-4219-82a3-683297993473</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Justinkredible007/7bb87835-670a-4219-82a3-683297993473'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7bb87835-670a-4219-82a3-683297993473-closing</guid>
+      <pubDate>Sun, 06 Feb 2022 19:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chaoas opened a short iron condor on $SPY expiring 2022-02-07</title>
+      <link>https://thetagang.com/chaoas/f42506bf-5ce1-4d0b-a375-25be98f588cb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/f42506bf-5ce1-4d0b-a375-25be98f588cb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f42506bf-5ce1-4d0b-a375-25be98f588cb-opening</guid>
+      <pubDate>Mon, 07 Feb 2022 14:51:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 optionblue opened a short iron condor on $SPY expiring 2022-02-11</title>
+      <link>https://thetagang.com/optionblue/3d87a026-8559-43e1-acae-6727a12a4225</link>
+      <description>For more details, &lt;a href='https://thetagang.com/optionblue/3d87a026-8559-43e1-acae-6727a12a4225'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3d87a026-8559-43e1-acae-6727a12a4225-opening</guid>
+      <pubDate>Mon, 07 Feb 2022 17:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $SPY expiring 2022-02-11</title>
+      <link>https://thetagang.com/dalben/d35ae40d-1c91-4ac6-9020-08e9eaa5c930</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/d35ae40d-1c91-4ac6-9020-08e9eaa5c930'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d35ae40d-1c91-4ac6-9020-08e9eaa5c930-opening</guid>
+      <pubDate>Mon, 07 Feb 2022 19:36:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $CHGG expiring 2022-02-18</title>
+      <link>https://thetagang.com/jrue/a1c18970-a6fe-48b0-b121-893235b68e95</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a1c18970-a6fe-48b0-b121-893235b68e95'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a1c18970-a6fe-48b0-b121-893235b68e95-closing</guid>
+      <pubDate>Tue, 08 Feb 2022 14:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chaoas opened a short iron condor on $SPY expiring 2022-02-09</title>
+      <link>https://thetagang.com/chaoas/e690af97-c506-4ddc-b3ad-7ec0a81739df</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/e690af97-c506-4ddc-b3ad-7ec0a81739df'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e690af97-c506-4ddc-b3ad-7ec0a81739df-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 14:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 fakerman opened a short iron condor on $IWM expiring 2022-03-18</title>
+      <link>https://thetagang.com/fakerman/9b4812c9-99a7-411d-96df-99c940895ea2</link>
+      <description>For more details, &lt;a href='https://thetagang.com/fakerman/9b4812c9-99a7-411d-96df-99c940895ea2'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9b4812c9-99a7-411d-96df-99c940895ea2-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:01:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $GLD expiring 2022-03-18</title>
+      <link>https://thetagang.com/Gerg/749a3adf-0b93-4276-9e71-dbd9a470cfce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/749a3adf-0b93-4276-9e71-dbd9a470cfce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">749a3adf-0b93-4276-9e71-dbd9a470cfce-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:06:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short iron condor on $COST expiring 2022-03-18</title>
+      <link>https://thetagang.com/antimeta/7b2f62aa-c7e0-4fd5-8b22-bb9ffa89d5dc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/7b2f62aa-c7e0-4fd5-8b22-bb9ffa89d5dc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7b2f62aa-c7e0-4fd5-8b22-bb9ffa89d5dc-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-11</title>
+      <link>https://thetagang.com/randman70/e9757d0c-a317-487a-b551-e51b9a79d3e5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/e9757d0c-a317-487a-b551-e51b9a79d3e5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e9757d0c-a317-487a-b551-e51b9a79d3e5-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-02-11</title>
+      <link>https://thetagang.com/dalben/30f3efe0-7356-4191-bf85-37318b1c1ac0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/30f3efe0-7356-4191-bf85-37318b1c1ac0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">30f3efe0-7356-4191-bf85-37318b1c1ac0-opening</guid>
+      <pubDate>Tue, 08 Feb 2022 18:34:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $PTON expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/4eb19aec-706f-4688-9039-af9f534283fc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/4eb19aec-706f-4688-9039-af9f534283fc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4eb19aec-706f-4688-9039-af9f534283fc-closing</guid>
+      <pubDate>Wed, 09 Feb 2022 14:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $NFLX expiring 2022-03-18</title>
+      <link>https://thetagang.com/Gerg/d19d7747-317a-464f-8963-d7d488a1d235</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/d19d7747-317a-464f-8963-d7d488a1d235'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d19d7747-317a-464f-8963-d7d488a1d235-opening</guid>
+      <pubDate>Wed, 09 Feb 2022 20:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lemone opened a short iron condor on $M expiring 2022-03-18</title>
+      <link>https://thetagang.com/lemone/e4d62e90-0b05-4c0f-8692-9e588530b513</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lemone/e4d62e90-0b05-4c0f-8692-9e588530b513'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e4d62e90-0b05-4c0f-8692-9e588530b513-opening</guid>
+      <pubDate>Wed, 09 Feb 2022 20:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $MAT expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/002b34a1-22a8-44fd-89ea-ea0d2d002b55</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/002b34a1-22a8-44fd-89ea-ea0d2d002b55'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">002b34a1-22a8-44fd-89ea-ea0d2d002b55-opening</guid>
+      <pubDate>Wed, 09 Feb 2022 20:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lemone opened a short iron condor on $INTC expiring 2022-03-18</title>
+      <link>https://thetagang.com/lemone/f574880d-ac22-464d-afa9-c6f7ff3f7e33</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lemone/f574880d-ac22-464d-afa9-c6f7ff3f7e33'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f574880d-ac22-464d-afa9-c6f7ff3f7e33-opening</guid>
+      <pubDate>Wed, 09 Feb 2022 20:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 chaoas closed a short iron condor on $SPY expiring 2022-02-09</title>
+      <link>https://thetagang.com/chaoas/f111e814-07e9-41cd-b331-dfa713d5f499</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/f111e814-07e9-41cd-b331-dfa713d5f499'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f111e814-07e9-41cd-b331-dfa713d5f499-closing</guid>
+      <pubDate>Wed, 09 Feb 2022 20:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $UBER expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/f2c65241-e758-4669-b4c3-1f3abe470bac</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/f2c65241-e758-4669-b4c3-1f3abe470bac'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f2c65241-e758-4669-b4c3-1f3abe470bac-closing</guid>
+      <pubDate>Thu, 10 Feb 2022 14:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chaoas opened a short iron condor on $SPY expiring 2022-02-11</title>
+      <link>https://thetagang.com/chaoas/d2e020dc-b318-407c-84ec-e4ceca90fb81</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/d2e020dc-b318-407c-84ec-e4ceca90fb81'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d2e020dc-b318-407c-84ec-e4ceca90fb81-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 15:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RamenHood opened a short iron condor on $UA expiring 2022-03-17</title>
+      <link>https://thetagang.com/RamenHood/17e64908-3f4b-483b-ab4e-d2d67f4d1d4d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RamenHood/17e64908-3f4b-483b-ab4e-d2d67f4d1d4d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">17e64908-3f4b-483b-ab4e-d2d67f4d1d4d-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 15:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RamenHood opened a short iron condor on $LULU expiring 2022-03-17</title>
+      <link>https://thetagang.com/RamenHood/b745dafe-a994-4341-b41b-2cb041bf16fc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RamenHood/b745dafe-a994-4341-b41b-2cb041bf16fc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b745dafe-a994-4341-b41b-2cb041bf16fc-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 15:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RamenHood opened a short iron condor on $NFLX expiring 2022-03-17</title>
+      <link>https://thetagang.com/RamenHood/9e1e00d5-0475-416a-b650-1916a0a2f577</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RamenHood/9e1e00d5-0475-416a-b650-1916a0a2f577'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9e1e00d5-0475-416a-b650-1916a0a2f577-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 15:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 TheLastSnipper opened a short iron condor on $SPY expiring 2022-02-11</title>
+      <link>https://thetagang.com/TheLastSnipper/b09c475c-5ed3-44d3-b473-fa8a925b1930</link>
+      <description>For more details, &lt;a href='https://thetagang.com/TheLastSnipper/b09c475c-5ed3-44d3-b473-fa8a925b1930'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b09c475c-5ed3-44d3-b473-fa8a925b1930-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 18:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $NDX expiring 2022-02-14</title>
+      <link>https://thetagang.com/dalben/237c4240-2dfd-4fc3-bfb7-29f117390a47</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/237c4240-2dfd-4fc3-bfb7-29f117390a47'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">237c4240-2dfd-4fc3-bfb7-29f117390a47-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 19:04:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $AFRM expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/0c8960bc-3506-4bc3-bcd2-55acbce9528b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/0c8960bc-3506-4bc3-bcd2-55acbce9528b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0c8960bc-3506-4bc3-bcd2-55acbce9528b-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 22:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $Z expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/ae85003c-262c-4b95-b444-057fbe4fdae9</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/ae85003c-262c-4b95-b444-057fbe4fdae9'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ae85003c-262c-4b95-b444-057fbe4fdae9-opening</guid>
+      <pubDate>Thu, 10 Feb 2022 22:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $ELY expiring 2022-02-18</title>
+      <link>https://thetagang.com/jrue/596d67f5-c853-4eef-8329-ad3ba6f374c0</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/596d67f5-c853-4eef-8329-ad3ba6f374c0'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">596d67f5-c853-4eef-8329-ad3ba6f374c0-closing</guid>
+      <pubDate>Fri, 11 Feb 2022 14:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $UAA expiring 2022-02-11</title>
+      <link>https://thetagang.com/jrue/5a69c697-30fd-4df0-8560-6c327855ef6d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/5a69c697-30fd-4df0-8560-6c327855ef6d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5a69c697-30fd-4df0-8560-6c327855ef6d-closing</guid>
+      <pubDate>Fri, 11 Feb 2022 14:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 RamenHood opened a short iron condor on $XOP expiring 2022-03-17</title>
+      <link>https://thetagang.com/RamenHood/68ed0c3d-6bc5-4479-a61b-274a58fbce40</link>
+      <description>For more details, &lt;a href='https://thetagang.com/RamenHood/68ed0c3d-6bc5-4479-a61b-274a58fbce40'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">68ed0c3d-6bc5-4479-a61b-274a58fbce40-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 16:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $SPY expiring 2022-03-31</title>
+      <link>https://thetagang.com/jrue/78abf9f0-71d2-4e9e-9e5d-df6b920f5b8b</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/78abf9f0-71d2-4e9e-9e5d-df6b920f5b8b'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">78abf9f0-71d2-4e9e-9e5d-df6b920f5b8b-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 18:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smalljoyed opened a short iron condor on $SPY expiring 2022-03-31</title>
+      <link>https://thetagang.com/smalljoyed/67eeb1cb-bbbb-42a0-8e98-ad4d5a045a39</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/67eeb1cb-bbbb-42a0-8e98-ad4d5a045a39'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">67eeb1cb-bbbb-42a0-8e98-ad4d5a045a39-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 20:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 smalljoyed closed a short iron condor on $CVS expiring 2022-03-18</title>
+      <link>https://thetagang.com/smalljoyed/c57f74e7-5152-4ca8-bdea-51f6f746ed00</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/c57f74e7-5152-4ca8-bdea-51f6f746ed00'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c57f74e7-5152-4ca8-bdea-51f6f746ed00-closing</guid>
+      <pubDate>Fri, 11 Feb 2022 20:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smalljoyed opened a short iron condor on $SPY expiring 2022-03-31</title>
+      <link>https://thetagang.com/smalljoyed/a3289af5-93d4-4f57-886e-9e447205cb65</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/a3289af5-93d4-4f57-886e-9e447205cb65'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a3289af5-93d4-4f57-886e-9e447205cb65-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 20:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smalljoyed opened a short iron condor on $XOP expiring 2022-03-18</title>
+      <link>https://thetagang.com/smalljoyed/36bc9296-0e37-4d45-a22d-84c06266e906</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/36bc9296-0e37-4d45-a22d-84c06266e906'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">36bc9296-0e37-4d45-a22d-84c06266e906-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 20:39:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/dalben/e6c00cbb-153b-4a30-babd-2c3ec90b4472</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/e6c00cbb-153b-4a30-babd-2c3ec90b4472'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e6c00cbb-153b-4a30-babd-2c3ec90b4472-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 22:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/randman70/67880566-0caa-4989-86c7-d62b0457714f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/67880566-0caa-4989-86c7-d62b0457714f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">67880566-0caa-4989-86c7-d62b0457714f-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 22:33:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rcastro70 opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/rcastro70/5599fa28-434c-4b04-a1ce-802a4e45be9d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rcastro70/5599fa28-434c-4b04-a1ce-802a4e45be9d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5599fa28-434c-4b04-a1ce-802a4e45be9d-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 22:40:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short iron condor on $SPY expiring 2022-03-03</title>
+      <link>https://thetagang.com/Akane/ceeb6ad1-f5e1-4335-853f-d297b7896aa7</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/ceeb6ad1-f5e1-4335-853f-d297b7896aa7'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ceeb6ad1-f5e1-4335-853f-d297b7896aa7-opening</guid>
+      <pubDate>Fri, 11 Feb 2022 23:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/randman70/3aabf61b-5adc-40ea-b4f3-bf87c9617bfe</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/3aabf61b-5adc-40ea-b4f3-bf87c9617bfe'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3aabf61b-5adc-40ea-b4f3-bf87c9617bfe-opening</guid>
+      <pubDate>Mon, 14 Feb 2022 15:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/dalben/31eb3309-c08f-44ec-9a21-ca95f1bba75d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/31eb3309-c08f-44ec-9a21-ca95f1bba75d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">31eb3309-c08f-44ec-9a21-ca95f1bba75d-opening</guid>
+      <pubDate>Mon, 14 Feb 2022 15:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smalljoyed opened a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/smalljoyed/1fb687a8-7f14-4688-96bf-089609f9fe4a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/1fb687a8-7f14-4688-96bf-089609f9fe4a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">1fb687a8-7f14-4688-96bf-089609f9fe4a-opening</guid>
+      <pubDate>Mon, 14 Feb 2022 16:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 smalljoyed opened a short iron condor on $SPY expiring 2022-02-16</title>
+      <link>https://thetagang.com/smalljoyed/983b8eec-0e05-4736-af1b-6abfb8824ecd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/smalljoyed/983b8eec-0e05-4736-af1b-6abfb8824ecd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">983b8eec-0e05-4736-af1b-6abfb8824ecd-opening</guid>
+      <pubDate>Mon, 14 Feb 2022 18:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bubbletea opened a short iron condor on $IWM expiring 2022-03-18</title>
+      <link>https://thetagang.com/bubbletea/d8735483-280f-45e7-a19c-b80c831f4ef6</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bubbletea/d8735483-280f-45e7-a19c-b80c831f4ef6'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d8735483-280f-45e7-a19c-b80c831f4ef6-opening</guid>
+      <pubDate>Tue, 15 Feb 2022 15:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $COST expiring 2022-03-18</title>
+      <link>https://thetagang.com/jrue/a88a2093-5c0d-4817-b930-518c4823814e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a88a2093-5c0d-4817-b930-518c4823814e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a88a2093-5c0d-4817-b930-518c4823814e-opening</guid>
+      <pubDate>Tue, 15 Feb 2022 18:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short iron condor on $SOFI expiring 2022-03-04</title>
+      <link>https://thetagang.com/antimeta/44110d82-3ab6-4e25-9eed-9ffd99da2d27</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/44110d82-3ab6-4e25-9eed-9ffd99da2d27'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">44110d82-3ab6-4e25-9eed-9ffd99da2d27-opening</guid>
+      <pubDate>Wed, 16 Feb 2022 16:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 fakerman opened a short iron condor on $SPY expiring 2022-03-31</title>
+      <link>https://thetagang.com/fakerman/436b0e5b-8270-457c-b8af-d4a4e0bc35ef</link>
+      <description>For more details, &lt;a href='https://thetagang.com/fakerman/436b0e5b-8270-457c-b8af-d4a4e0bc35ef'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">436b0e5b-8270-457c-b8af-d4a4e0bc35ef-opening</guid>
+      <pubDate>Wed, 16 Feb 2022 17:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $XRT expiring 2022-03-18</title>
+      <link>https://thetagang.com/Gerg/a145461a-3be5-44cc-8452-0d8862296455</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/a145461a-3be5-44cc-8452-0d8862296455'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a145461a-3be5-44cc-8452-0d8862296455-opening</guid>
+      <pubDate>Wed, 16 Feb 2022 19:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $FSLY expiring 2022-02-18</title>
+      <link>https://thetagang.com/jrue/4712eb47-aef3-4e46-8219-61dd30533486</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/4712eb47-aef3-4e46-8219-61dd30533486'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4712eb47-aef3-4e46-8219-61dd30533486-opening</guid>
+      <pubDate>Wed, 16 Feb 2022 21:06:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Saxi opened a short iron condor on $SPY expiring 2022-03-18</title>
+      <link>https://thetagang.com/Saxi/3c098eb6-fc32-4c94-bfac-9680850a62dd</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Saxi/3c098eb6-fc32-4c94-bfac-9680850a62dd'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3c098eb6-fc32-4c94-bfac-9680850a62dd-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 01:39:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Sjgsports opened a short iron condor on $VZ expiring 2022-03-18</title>
+      <link>https://thetagang.com/Sjgsports/fe0a3bea-84e9-48cd-8a63-27043b601e0d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Sjgsports/fe0a3bea-84e9-48cd-8a63-27043b601e0d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fe0a3bea-84e9-48cd-8a63-27043b601e0d-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 14:35:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 chaoas opened a short iron condor on $SPY expiring 2022-02-18</title>
+      <link>https://thetagang.com/chaoas/6910d5b3-9c0f-4d3e-b3a7-9de330813769</link>
+      <description>For more details, &lt;a href='https://thetagang.com/chaoas/6910d5b3-9c0f-4d3e-b3a7-9de330813769'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6910d5b3-9c0f-4d3e-b3a7-9de330813769-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 14:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 gruffalo opened a short iron condor on $SPX expiring 2022-03-31</title>
+      <link>https://thetagang.com/gruffalo/243dd69e-74c8-4520-a535-dc9be7fcc14f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/gruffalo/243dd69e-74c8-4520-a535-dc9be7fcc14f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">243dd69e-74c8-4520-a535-dc9be7fcc14f-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 15:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/randman70/0b2ee9a3-6cf5-439e-a783-ca46294159da</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/0b2ee9a3-6cf5-439e-a783-ca46294159da'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0b2ee9a3-6cf5-439e-a783-ca46294159da-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 18:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/dalben/0586f077-5534-4742-9283-55257faf239f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/0586f077-5534-4742-9283-55257faf239f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">0586f077-5534-4742-9283-55257faf239f-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 18:34:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rcastro70 opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/rcastro70/4fbab2f9-9577-4fce-be78-bed69e5dcdc3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rcastro70/4fbab2f9-9577-4fce-be78-bed69e5dcdc3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">4fbab2f9-9577-4fce-be78-bed69e5dcdc3-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 18:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Rustyerr opened a short iron condor on $NVDA expiring 2022-04-14</title>
+      <link>https://thetagang.com/Rustyerr/ba46e48e-c9b1-4ce3-877d-5a1de7b7e136</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Rustyerr/ba46e48e-c9b1-4ce3-877d-5a1de7b7e136'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ba46e48e-c9b1-4ce3-877d-5a1de7b7e136-opening</guid>
+      <pubDate>Thu, 17 Feb 2022 20:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 jrue closed a short iron condor on $DBX expiring 2022-02-18</title>
+      <link>https://thetagang.com/jrue/7f544737-67bb-4244-8ca1-930074e7e695</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/7f544737-67bb-4244-8ca1-930074e7e695'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">7f544737-67bb-4244-8ca1-930074e7e695-closing</guid>
+      <pubDate>Fri, 18 Feb 2022 15:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Reiku opened a short iron condor on $TSLA expiring 2022-03-18</title>
+      <link>https://thetagang.com/Reiku/d76a1c00-7b5e-4fb6-9098-795db438cf8f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/d76a1c00-7b5e-4fb6-9098-795db438cf8f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d76a1c00-7b5e-4fb6-9098-795db438cf8f-opening</guid>
+      <pubDate>Fri, 18 Feb 2022 18:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/randman70/3031ba71-b674-4d0b-add3-788076ddd97e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/3031ba71-b674-4d0b-add3-788076ddd97e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3031ba71-b674-4d0b-add3-788076ddd97e-opening</guid>
+      <pubDate>Fri, 18 Feb 2022 18:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Reiku closed a short iron condor on $TSLA expiring 2022-02-18</title>
+      <link>https://thetagang.com/Reiku/aa8b113a-31e4-4ecc-87a6-918d02f48088</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Reiku/aa8b113a-31e4-4ecc-87a6-918d02f48088'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">aa8b113a-31e4-4ecc-87a6-918d02f48088-closing</guid>
+      <pubDate>Fri, 18 Feb 2022 20:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Akane opened a short iron condor on $SPY expiring 2022-03-31</title>
+      <link>https://thetagang.com/Akane/90b99f5b-040d-46b3-8181-4caa6cb4a9ed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Akane/90b99f5b-040d-46b3-8181-4caa6cb4a9ed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">90b99f5b-040d-46b3-8181-4caa6cb4a9ed-opening</guid>
+      <pubDate>Fri, 18 Feb 2022 20:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $IWM expiring 2022-03-18</title>
+      <link>https://thetagang.com/Gerg/2691ffe0-6039-4d8f-82b2-d9784cf547c8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/2691ffe0-6039-4d8f-82b2-d9784cf547c8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2691ffe0-6039-4d8f-82b2-d9784cf547c8-opening</guid>
+      <pubDate>Fri, 18 Feb 2022 21:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Darkdolphin closed a short iron condor on $SPY expiring 2022-02-21</title>
+      <link>https://thetagang.com/Darkdolphin/e0681717-b317-4af6-8490-78daac62be15</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Darkdolphin/e0681717-b317-4af6-8490-78daac62be15'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e0681717-b317-4af6-8490-78daac62be15-closing</guid>
+      <pubDate>Sat, 19 Feb 2022 13:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $IYR expiring 2022-04-14</title>
+      <link>https://thetagang.com/Gerg/b4bc9c74-191a-4eba-851f-cbecdc4cc1d5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/b4bc9c74-191a-4eba-851f-cbecdc4cc1d5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">b4bc9c74-191a-4eba-851f-cbecdc4cc1d5-opening</guid>
+      <pubDate>Tue, 22 Feb 2022 16:32:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/randman70/f25d6ae5-64db-46ff-9c57-2b09efbb5870</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/f25d6ae5-64db-46ff-9c57-2b09efbb5870'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f25d6ae5-64db-46ff-9c57-2b09efbb5870-opening</guid>
+      <pubDate>Tue, 22 Feb 2022 17:43:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-02-25</title>
+      <link>https://thetagang.com/dalben/147df719-124c-4916-96e0-e0f551fe234f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/147df719-124c-4916-96e0-e0f551fe234f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">147df719-124c-4916-96e0-e0f551fe234f-opening</guid>
+      <pubDate>Tue, 22 Feb 2022 17:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a short iron condor on $SQ expiring 2022-02-25</title>
+      <link>https://thetagang.com/rostsunshine/16af6e35-c2ff-4eeb-b9c8-72943a748d74</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/16af6e35-c2ff-4eeb-b9c8-72943a748d74'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">16af6e35-c2ff-4eeb-b9c8-72943a748d74-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 15:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rostsunshine opened a short iron condor on $WDAY expiring 2022-03-04</title>
+      <link>https://thetagang.com/rostsunshine/5d52740b-a76a-4c1e-9cd6-394fd6695131</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rostsunshine/5d52740b-a76a-4c1e-9cd6-394fd6695131'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5d52740b-a76a-4c1e-9cd6-394fd6695131-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 17:06:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 papertrader opened a short iron condor on $SPX expiring 2022-02-23</title>
+      <link>https://thetagang.com/papertrader/c966ad00-b7bd-4b5d-9bc9-8e44891ee901</link>
+      <description>For more details, &lt;a href='https://thetagang.com/papertrader/c966ad00-b7bd-4b5d-9bc9-8e44891ee901'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c966ad00-b7bd-4b5d-9bc9-8e44891ee901-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 17:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MrFrenchFry opened a short iron condor on $SPY expiring 2022-02-25</title>
+      <link>https://thetagang.com/MrFrenchFry/e36ac871-ad04-4702-bace-45ea974d4aae</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MrFrenchFry/e36ac871-ad04-4702-bace-45ea974d4aae'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e36ac871-ad04-4702-bace-45ea974d4aae-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 17:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 georgia opened a short iron condor on $AAPL expiring 2022-03-25</title>
+      <link>https://thetagang.com/georgia/e27527ed-c021-4100-98ae-308d838823bf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/georgia/e27527ed-c021-4100-98ae-308d838823bf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">e27527ed-c021-4100-98ae-308d838823bf-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 18:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ARFFman opened a short iron condor on $QQQ expiring 2022-02-25</title>
+      <link>https://thetagang.com/ARFFman/645ca3e6-7be4-4e70-ba6d-0697aaeea3ed</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ARFFman/645ca3e6-7be4-4e70-ba6d-0697aaeea3ed'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">645ca3e6-7be4-4e70-ba6d-0697aaeea3ed-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 18:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MrFrenchFry opened a short iron condor on $SPY expiring 2022-02-25</title>
+      <link>https://thetagang.com/MrFrenchFry/eaccb0dc-3a56-4d04-bcb7-8dbb1fb7318a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MrFrenchFry/eaccb0dc-3a56-4d04-bcb7-8dbb1fb7318a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">eaccb0dc-3a56-4d04-bcb7-8dbb1fb7318a-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 19:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-03-04</title>
+      <link>https://thetagang.com/randman70/c20b6c9b-8ced-4db2-a676-b8eb3f363b02</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/c20b6c9b-8ced-4db2-a676-b8eb3f363b02'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">c20b6c9b-8ced-4db2-a676-b8eb3f363b02-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 20:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-03-04</title>
+      <link>https://thetagang.com/dalben/830af8f9-25c4-4eef-9411-8cb248c422bb</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/830af8f9-25c4-4eef-9411-8cb248c422bb'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">830af8f9-25c4-4eef-9411-8cb248c422bb-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 20:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 georgia opened a short iron condor on $AAPL expiring 2022-04-14</title>
+      <link>https://thetagang.com/georgia/3b63b199-38fa-4149-96e3-b5b3198b8be5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/georgia/3b63b199-38fa-4149-96e3-b5b3198b8be5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">3b63b199-38fa-4149-96e3-b5b3198b8be5-opening</guid>
+      <pubDate>Wed, 23 Feb 2022 21:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Vance closed a short iron condor on $SPX expiring 2022-02-23</title>
+      <link>https://thetagang.com/Vance/98ec607e-2d98-413b-b1b0-0e7321af6bf5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Vance/98ec607e-2d98-413b-b1b0-0e7321af6bf5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">98ec607e-2d98-413b-b1b0-0e7321af6bf5-closing</guid>
+      <pubDate>Wed, 23 Feb 2022 21:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $QQQ expiring 2022-04-08</title>
+      <link>https://thetagang.com/jrue/a155a269-1515-404c-aefe-51188023c089</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/a155a269-1515-404c-aefe-51188023c089'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a155a269-1515-404c-aefe-51188023c089-opening</guid>
+      <pubDate>Thu, 24 Feb 2022 15:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bubbletea opened a short iron condor on $SPY expiring 2022-04-01</title>
+      <link>https://thetagang.com/bubbletea/d48f1203-549b-45ef-b82b-b6d121eb5fe5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bubbletea/d48f1203-549b-45ef-b82b-b6d121eb5fe5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d48f1203-549b-45ef-b82b-b6d121eb5fe5-opening</guid>
+      <pubDate>Thu, 24 Feb 2022 16:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 jrue opened a short iron condor on $MRNA expiring 2022-04-14</title>
+      <link>https://thetagang.com/jrue/8295c0f1-6bb0-4cc4-aac8-4e07c2f9f9d3</link>
+      <description>For more details, &lt;a href='https://thetagang.com/jrue/8295c0f1-6bb0-4cc4-aac8-4e07c2f9f9d3'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8295c0f1-6bb0-4cc4-aac8-4e07c2f9f9d3-opening</guid>
+      <pubDate>Thu, 24 Feb 2022 19:28:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 randman70 opened a short iron condor on $TSLA expiring 2022-03-04</title>
+      <link>https://thetagang.com/randman70/d8c0e1ee-8ed9-40d6-b4fd-7c963c66f7ba</link>
+      <description>For more details, &lt;a href='https://thetagang.com/randman70/d8c0e1ee-8ed9-40d6-b4fd-7c963c66f7ba'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d8c0e1ee-8ed9-40d6-b4fd-7c963c66f7ba-opening</guid>
+      <pubDate>Fri, 25 Feb 2022 15:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 dalben opened a short iron condor on $TSLA expiring 2022-03-04</title>
+      <link>https://thetagang.com/dalben/8b0ccc4d-7f3b-4f82-b080-000a52cb158e</link>
+      <description>For more details, &lt;a href='https://thetagang.com/dalben/8b0ccc4d-7f3b-4f82-b080-000a52cb158e'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8b0ccc4d-7f3b-4f82-b080-000a52cb158e-opening</guid>
+      <pubDate>Fri, 25 Feb 2022 15:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 rcastro70 opened a short iron condor on $TSLA expiring 2022-03-04</title>
+      <link>https://thetagang.com/rcastro70/ea36e5fa-d9bb-4b5e-95a6-cfd12184b79a</link>
+      <description>For more details, &lt;a href='https://thetagang.com/rcastro70/ea36e5fa-d9bb-4b5e-95a6-cfd12184b79a'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">ea36e5fa-d9bb-4b5e-95a6-cfd12184b79a-opening</guid>
+      <pubDate>Fri, 25 Feb 2022 15:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 JeVoisTout closed a short iron condor on $SPX expiring 2022-02-24</title>
+      <link>https://thetagang.com/JeVoisTout/574bdd3a-48b2-464c-b62a-438ac98f6690</link>
+      <description>For more details, &lt;a href='https://thetagang.com/JeVoisTout/574bdd3a-48b2-464c-b62a-438ac98f6690'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">574bdd3a-48b2-464c-b62a-438ac98f6690-closing</guid>
+      <pubDate>Fri, 25 Feb 2022 16:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 MrFrenchFry opened a short iron condor on $SPY expiring 2022-03-04</title>
+      <link>https://thetagang.com/MrFrenchFry/9ee80afd-ec14-41a8-971d-bd6e254a150f</link>
+      <description>For more details, &lt;a href='https://thetagang.com/MrFrenchFry/9ee80afd-ec14-41a8-971d-bd6e254a150f'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">9ee80afd-ec14-41a8-971d-bd6e254a150f-opening</guid>
+      <pubDate>Fri, 25 Feb 2022 18:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Gerg opened a short iron condor on $XLE expiring 2022-04-14</title>
+      <link>https://thetagang.com/Gerg/34405e1f-c31c-4c1d-8825-e0e93ac93908</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Gerg/34405e1f-c31c-4c1d-8825-e0e93ac93908'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">34405e1f-c31c-4c1d-8825-e0e93ac93908-opening</guid>
+      <pubDate>Mon, 28 Feb 2022 18:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 antimeta opened a short iron condor on $COST expiring 2022-04-29</title>
+      <link>https://thetagang.com/antimeta/6f78d9d3-24ed-4bd3-b0f2-b191e6cc5bc5</link>
+      <description>For more details, &lt;a href='https://thetagang.com/antimeta/6f78d9d3-24ed-4bd3-b0f2-b191e6cc5bc5'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">6f78d9d3-24ed-4bd3-b0f2-b191e6cc5bc5-opening</guid>
+      <pubDate>Fri, 11 Mar 2022 20:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 fakerman opened a short iron condor on $QQQ expiring 2022-04-29</title>
+      <link>https://thetagang.com/fakerman/41cc3742-7a22-4f4e-b814-5038886a60ee</link>
+      <description>For more details, &lt;a href='https://thetagang.com/fakerman/41cc3742-7a22-4f4e-b814-5038886a60ee'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">41cc3742-7a22-4f4e-b814-5038886a60ee-opening</guid>
+      <pubDate>Fri, 18 Mar 2022 18:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 yueyanglu319 opened a short iron condor on $SPY expiring 2022-04-01</title>
+      <link>https://thetagang.com/yueyanglu319/8d599524-dadf-44d7-b7a6-801f7ee68b26</link>
+      <description>For more details, &lt;a href='https://thetagang.com/yueyanglu319/8d599524-dadf-44d7-b7a6-801f7ee68b26'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">8d599524-dadf-44d7-b7a6-801f7ee68b26-opening</guid>
+      <pubDate>Fri, 18 Mar 2022 19:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 Kilroy11512 opened a short iron condor on $F expiring 2022-03-25</title>
+      <link>https://thetagang.com/Kilroy11512/f791a5db-720d-4d74-b9c3-3eefd572dfbf</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Kilroy11512/f791a5db-720d-4d74-b9c3-3eefd572dfbf'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">f791a5db-720d-4d74-b9c3-3eefd572dfbf-opening</guid>
+      <pubDate>Fri, 18 Mar 2022 19:56:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 ghostcipherink opened a short iron condor on $IWM expiring 2022-07-15</title>
+      <link>https://thetagang.com/ghostcipherink/23cfad22-ec6e-44b0-b6a8-5390aabadd6d</link>
+      <description>For more details, &lt;a href='https://thetagang.com/ghostcipherink/23cfad22-ec6e-44b0-b6a8-5390aabadd6d'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">23cfad22-ec6e-44b0-b6a8-5390aabadd6d-opening</guid>
+      <pubDate>Fri, 17 Jun 2022 20:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 Dafris_Capital closed a short iron condor on $VIX expiring 2023-05-17</title>
+      <link>https://thetagang.com/Dafris_Capital/fd4a4091-4972-4cbf-bff5-64d0bad69be1</link>
+      <description>For more details, &lt;a href='https://thetagang.com/Dafris_Capital/fd4a4091-4972-4cbf-bff5-64d0bad69be1'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">fd4a4091-4972-4cbf-bff5-64d0bad69be1-closing</guid>
+      <pubDate>Sat, 02 Sep 2023 14:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 lzyabc597 opened a short iron condor on $SPX expiring 2024-01-19</title>
+      <link>https://thetagang.com/lzyabc597/2679478a-4d17-475a-b768-a4003af94a33</link>
+      <description>For more details, &lt;a href='https://thetagang.com/lzyabc597/2679478a-4d17-475a-b768-a4003af94a33'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">2679478a-4d17-475a-b768-a4003af94a33-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 14:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏁 groovyzebra closed a short iron condor on $GTLB expiring 2023-12-08</title>
+      <link>https://thetagang.com/groovyzebra/d7a397c8-ece8-4e1c-bd7a-784fe6f3fbfc</link>
+      <description>For more details, &lt;a href='https://thetagang.com/groovyzebra/d7a397c8-ece8-4e1c-bd7a-784fe6f3fbfc'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">d7a397c8-ece8-4e1c-bd7a-784fe6f3fbfc-closing</guid>
+      <pubDate>Tue, 05 Dec 2023 19:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 bobthetrader opened a short iron condor on $SPX expiring 2024-01-31</title>
+      <link>https://thetagang.com/bobthetrader/a244d6ed-11d2-45ec-8ee3-6836dc3be4ce</link>
+      <description>For more details, &lt;a href='https://thetagang.com/bobthetrader/a244d6ed-11d2-45ec-8ee3-6836dc3be4ce'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">a244d6ed-11d2-45ec-8ee3-6836dc3be4ce-opening</guid>
+      <pubDate>Tue, 05 Dec 2023 19:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 eve opened a short iron condor on $FXI expiring 2024-03-01</title>
+      <link>https://thetagang.com/eve/5eb13a2d-b6ac-4897-9443-b2784c7789b8</link>
+      <description>For more details, &lt;a href='https://thetagang.com/eve/5eb13a2d-b6ac-4897-9443-b2784c7789b8'&gt;view this trade on thetagang.com&lt;/a&gt;</description>
+      <guid isPermaLink="false">5eb13a2d-b6ac-4897-9443-b2784c7789b8-opening</guid>
+      <pubDate>Wed, 17 Jan 2024 00:11:23 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
